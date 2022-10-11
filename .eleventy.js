@@ -1,5 +1,6 @@
 const { DateTime } = require("luxon");
 const fs = require("fs");
+const path = require("path");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
@@ -16,8 +17,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
 
-  // Alias `layout: post` to `layout: layouts/post.njk`
-  eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
+  // Alias `layout: walk` to `layout: layouts/walk.njk`
+  eleventyConfig.addLayoutAlias("walk", "layouts/walk.njk");
+
+  // Alias `layout: walk` to `layout: layouts/walk.njk`
+  eleventyConfig.addLayoutAlias("serieslist", "layouts/serieslist.njk");
 
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
@@ -45,20 +49,31 @@ module.exports = function(eleventyConfig) {
     return Math.min.apply(null, numbers);
   });
 
-  function filterTagList(tags) {
-    return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
-  }
+  eleventyConfig.addFilter("entries", (data) => data ? Object.entries(data) : []);
 
-  eleventyConfig.addFilter("filterTagList", filterTagList)
+  eleventyConfig.addFilter("getSeriesMetadata", (metadata, series) => metadata.find(item => item.data.walkSeries === series));
 
   // Create an array of all tags
-  eleventyConfig.addCollection("tagList", function(collection) {
-    let tagSet = new Set();
-    collection.getAll().forEach(item => {
-      (item.data.tags || []).forEach(tag => tagSet.add(tag));
-    });
+  eleventyConfig.addCollection("seriesList", function(collection) {
+    const seriesList = collection.getFilteredByGlob("walks/*/index.md");
+    return seriesList;
+  });
 
-    return filterTagList([...tagSet]);
+  fs.readdirSync(path.resolve(__dirname, './walks'), { withFileTypes: true }).filter(dirent => dirent.isDirectory()).forEach(series => {
+    eleventyConfig.addCollection(series.name, function(collection) {
+      return collection.getAll().filter(item => path.basename(item.data.page.inputPath) !== 'index.md' && item.data.walkSeries === series.name).sort((a, b) => {
+        if (a.data.title === b.data.title) return 0;
+        const titleRegex = /Section (\d{1,2}) \(?(Out|Return)/;
+        const [_A, sectionNumberStrA, directionA] = a.data.title.match(titleRegex);
+        const [_B, sectionNumberStrB, directionB] = b.data.title.match(titleRegex);
+        const sectionNumberA = parseInt(sectionNumberStrA);
+        const sectionNumberB = parseInt(sectionNumberStrB);
+        if (sectionNumberA !== sectionNumberB) return ((sectionNumberA > sectionNumberB) * 2) - 1;
+        if (directionA === directionB) return 0;
+        if (directionA === 'Out' && directionB === 'Return') return -1;
+        return 1;
+      });
+    });
   });
 
   // Customize Markdown library and settings:
@@ -67,12 +82,6 @@ module.exports = function(eleventyConfig) {
     breaks: true,
     linkify: true
   }).use(markdownItAnchor, {
-    permalink: markdownItAnchor.permalink.ariaHidden({
-      placement: "after",
-      class: "direct-link",
-      symbol: "#",
-      level: [1,2,3,4],
-    }),
     slugify: eleventyConfig.getFilter("slug")
   });
   eleventyConfig.setLibrary("md", markdownLibrary);

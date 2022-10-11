@@ -1,0 +1,33 @@
+---
+layout: layouts/base.njk
+---
+<h3>{{ seriesTitle }}</h3>
+
+<div class="long-description">
+  {{ content | safe }}
+</div>
+
+<ul class="series-list">
+  {% for walk in collections[walkSeries] %}
+    <li class="walk">
+      <p>
+        <a href="{{ walk.url | url }}" class="link-overlay">{{ walk.data.title }}</a>
+        <span>{{ walk.data.subtitle }}</span>
+      </p>
+    </li>
+  {% endfor %}
+</ul>
+
+<style>
+  .long-description {
+    max-height: 150px;
+    overflow: hidden;
+  }
+</style>
+
+<script>
+  var longDesc = document.querySelector('.long-description');
+  longDesc.addEventListener('click', function() {
+    longDesc.style.maxHeight = '100%';
+  });
+</script>

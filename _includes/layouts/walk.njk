@@ -1,0 +1,38 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-walk
+---
+<h3>{{ title }}</h3>
+<h4>{{ subtitle }}</h4>
+
+<h5>Walk Details</h5>
+
+<table class="walk-details">
+  <tbody>
+    {% for detail in details | entries %}
+      <tr>
+        <th>{{ detail[0] }}</th>
+        <td>{{ detail[1]}}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<h5>Walk Instructions</h5>
+{{ content | safe }}
+
+<img src="/img/maps/{{ slug }}.jpg" loading="lazy" />
+
+{%- if collections[walkSeries] %}
+{%- set nextWalk = collections[walkSeries] | getNextCollectionItem(page) %}
+{%- set previousWalk = collections[walkSeries] | getPreviousCollectionItem(page) %}
+{%- if nextWalk or previousWalk %}
+<hr>
+<nav>
+  <ul>
+    {%- if nextWalk %}<li>Next: <a href="{{ nextWalk.url | url }}">{{ nextWalk.data.title }}</a></li>{% endif %}
+    {%- if previousWalk %}<li>Previous: <a href="{{ previousWalk.url | url }}">{{ previousWalk.data.title }}</a></li>{% endif %}
+  </ul>
+</nav>
+{%- endif %}
+{%- endif %}

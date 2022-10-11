@@ -1,0 +1,15 @@
+---
+layout: layouts/home.njk
+title: Walks
+permalink: /walks/
+eleventyNavigation:
+  key: Walks
+  order: 2
+---
+<h3>Walk Series</h3>
+
+<ul>
+  {% for series in collections.seriesList %}
+    <li><a href="{{ series.url | url }}" class="post-series">{{ series.data.seriesTitle }}</a></li>
+  {% endfor %}
+</ul>
