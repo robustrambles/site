@@ -8,7 +8,6 @@ details:
   Start: By South Godstone railway station;on road parking around the village
   Comment: >
     Some pleasant countryside and an interesting church halfway. Some robust moments as the paths are not always easy to find; this is cattle country and there may be mud, always keep on the highest, driest ground even if it means a diversion away from the path.
-portraitMap: false
 ---
 With ‘The Lagham’ Bar and Indian Restaurant on your left, walk downhill on the main road out of the village, going under the railway bridge (there is a pavement). In about 100 metres go left off the main road up the entrance to Lagham Park Farm (it is a bridleway).
 

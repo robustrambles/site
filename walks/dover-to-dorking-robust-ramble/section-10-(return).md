@@ -8,7 +8,6 @@ details:
   Start: Smarden village centre; there is a village car park
   Comment: >
     This a longer return so allow plenty of time if completing the circular walk. Interesting and varied countryside but the usual provisos about lack of waymarking and finding the route across large fields and through woodland. Many stiles, some broken, and boggy patches.
-portraitMap: false
 ---
 With the Chequers Inn on the left and the church behind walk up the road out of the village. Soon reach a butcher’s shop on the right. Almost opposite is a gate into a playing field. Go through this and keep forward through a childrens’ play area. Follow the hedge on your left looking for a footbridge and gate on the left.
 

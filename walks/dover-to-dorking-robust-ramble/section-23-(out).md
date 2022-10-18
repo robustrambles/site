@@ -8,7 +8,6 @@ details:
   Start: By the Station Pub(formerly Hotel) alongside main road and just south of railway station.
   Comment: >
     This is a walk with constraints imposed by the necessity to cross main roads, railways and the River Mole. A small amount of road walking is required and some dual use of paths but there is some excellent rolling Surrey countryside to compensate. Be aware that in winter months and after heavy rain many of the paths will be extremely muddy. The section to Sidlow Bridge is subject to flooding in extreme weather; the only alternative is to walk up the road to Dovers Green and back down the A217, a 1.5 mile diversion; hopefully a rare occurrence.
-portraitMap: false
 ---
 Starting from the main road with the garden of the ‘Station Pub’ on your right, turn right, off the main road, to reach the front of the pub. Here there is a junction of roads. Turn left, away from the pub, down The Avenue. Follow this treelined road down to a T-junction by a church.
 

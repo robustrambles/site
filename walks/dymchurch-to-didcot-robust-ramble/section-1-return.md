@@ -8,7 +8,6 @@ details:
   Start: The Village Hall, near the church in Newchurch
   Comment: >
     This is a long return at its best on a fine day. Many of the stiles are hidden. Most of the paths are not in evidence as they run along the edges of fields and ditches or across pasture, so keep a close eye on the map and keep looking for distant features; the spire of the church at St. Mary-in-the-Marsh is particularly useful. Long grass, especially if wet, can make the going very slow. Allow plenty of time for this return as this is an isolated area and it is easy to become lost.
-portraitMap: false
 ---
 With the entrance to the village hall behind, turn right on the road and walk up to a junction with a road coming in on the right. Here turn left, off the road, onto a concrete path between houses. In a short distance cross a stile into a sheep pasture and walk straight ahead towards farm buildings. Reach another stile in mid-field. Go on to the far righthand corner of the field and cross a footbridge and stile to a road. Turn left on the road.
 

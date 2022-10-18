@@ -8,7 +8,6 @@ details:
   Start: The Plume of Feathers, Crondall
   Comment: >
     Two long stretches of paths are linked by sections of country road walking. There are several stiles and patches of mud after wet weather. Some excellent views.
-portraitMap: false
 ---
 With the Plume of Feathers on your left, go on along Well Road. Just before the last house on the left, at Potter’s Hill, go left through a gate and up towards a church. Pass along the edge of a cricket pitch and emerge onto a road in front of the church at the top. Turn left a short distance to a road junction. Turn right on an enclosed path hidden between the end of the churchyard and a school. Go up between a wall and a hedge.
 

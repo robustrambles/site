@@ -8,7 +8,6 @@ details:
   Start: The Red Lion in Woodcote; various parking possibilities in the vicinity of the War Memorial crossroads
   Comment: >
     An excellent and varied walk with excellent views of the Goring Gap on the final stage. This section is linked to the next by a long trek through Goring and over the Thames bridge to Streatley. This is an addition to the distances and times given for this section. This section officially ends near Goring Rail Station, there are currently no refreshment services here.
-portraitMap: false
 ---
 With the Red Lion behind, turn left, back towards the War memorial crossroads. Turn left on South Stoke Road. Continue along for ¼ mile. Pass St. Leonard’s Church and ignore side turnings.
 

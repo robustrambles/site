@@ -8,7 +8,6 @@ details:
   Start: The Bramley pub in Bramley.
   Comment: >
     An interesting section with easy going, apart from some rough pastures.
-portraitMap: false
 ---
 With ‘The Bramley’ pub on your left walk to the railway line and cross. Immediately over turn right to go down the side of a bakery and join a tarmac path between houses and the railway.
 

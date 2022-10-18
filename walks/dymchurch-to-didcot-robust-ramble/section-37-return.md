@@ -8,7 +8,6 @@ details:
   Start: The Jekyll &#x26; Hyde pub in Turgis Green on the A33.
   Comment: >
     Slightly easier return across open farmland, however be prepared for paths not being reinstated across crops. A final stretch of roadwalking along country roads to return to Hazeley.
-portraitMap: false
 ---
 With the ‘Jekyll & Hyde’ pub on your left walk down the main road. Immediately past the car park turn left into a recreation ground. Bear right down the edge to the bottom exit back onto the main road. Turn left to soon reach a side road by a Service Station. Turn left down here (this was used on the outward section) past the unusual Cricketers House on your right.
 

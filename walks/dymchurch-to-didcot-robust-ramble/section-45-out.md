@@ -8,7 +8,6 @@ details:
   Start: The site of the former Reformation pub, now closed, in Gallowstree Common.
   Comment: >
     An enjoyable walk through gracious countryside with much woodland, some parkland and short linking sections on quiet country roads.
-portraitMap: false
 ---
 With the building of the former Reformation pub, now closed, on your right, go on up the main road. Take the first turning right into the village and follow the road up and around to the right. Enjoy the sparkling thatched cottages as you walk along. Where the road swings back right, turn left, by a pole, through a gap into a corner of woods.
 

@@ -8,7 +8,6 @@ details:
   Start: Appledore village centre and the Black Lion pub.
   Comment: >
     Long sections across former marsh and pasture land and more of the Royal Military Canal. Waymarking is patchy and constant care and attention is needed to stay on route. Some rough terrain. Make sure to visit Warehorne church.
-portraitMap: false
 ---
 With the Black Lion on the left, go on downhill past the church on the left, to cross the bridge over the Royal Military Canal.
 

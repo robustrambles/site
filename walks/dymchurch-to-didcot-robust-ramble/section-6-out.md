@@ -8,7 +8,6 @@ details:
   Start: The Tenterden Vineyard, Small Hythe
   Comment: >
     undefined
-portraitMap: false
 ---
 Comment: A pleasant walk off the marshland pastures to the pleasant town of Tenterden. Many stiles.
 

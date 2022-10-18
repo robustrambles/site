@@ -8,7 +8,6 @@ details:
   Start: From the White Horse Inn on the Folkestone end of the village. There is a car park further along near the village shops.
   Comment: >
     An interesting walk through a woodland site of historic interest, much tranquil undulating countryside and the pleasant village of Alkham halfway. There are no services at West Hougham. There are stiles.
-portraitMap: false
 ---
 With the White Horse Inn on your left, walk up the main road, soon passing shops on the left. Look for a safe place to cross the main road and keep on for some way in the same direction out of the village. Eventually reach a new roundabout.
 

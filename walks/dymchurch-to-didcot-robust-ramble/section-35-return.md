@@ -8,7 +8,6 @@ details:
   Start: The Crooked Billet in Hook
   Comment: >
     This is quite a tough return walk with boggy terrain, rough paths and a subway under the railway which is long and dark. A long climb up in woods with confusing paths.
-portraitMap: false
 ---
 Leave the Crooked Billet and cross straight over the dual carriageway. At the far side turn left along the pavement (do not drop down the bank to track below). Soon cross a stream and immediately turn right down to an old mesh fieldgate and metal kissing gate.
 

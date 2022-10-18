@@ -6,7 +6,6 @@ details:
   Map: OS Explorer 134 Crawley &#x26; Horsham
   Comment: >
     undefined
-portraitMap: false
 ---
 With the Holmbush Inn on the left, walk up the road towards the railway bridge. Just before the bridge cross the road to a footpath going off right over a stile. Go into an enclosed path with a wire fence on the left and the railway beyond. Follow this along to emerge onto the edge of a playing field. Keep forward with the fence still on the left along the top of the playing field and into the field beyond.
 

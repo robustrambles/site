@@ -8,7 +8,6 @@ details:
   Start: The corner by The Wheatsheaf is a busy junction. If intending to visit the pub on returning from the walk, ask about parking on site.
   Comment: >
     This is a tranquil walk in secluded countryside with a final stretch through the parkland of Penshurst Place. These are paths with frequent stiles.
-portraitMap: false
 ---
 Facing The Wheatsheaf with the railway bridge behind, go left up an unmade private lane. At the top of the rise, pass a cottage on your left. Follow the hedge on your left round to a narrow path which soon reaches a gate into a field.
 

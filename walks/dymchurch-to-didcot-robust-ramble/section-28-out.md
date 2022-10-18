@@ -8,7 +8,6 @@ details:
   Start: The Hurtwood Inn in Peaslake.
   Comment: >
     Woods, fields and heathland; a walk of contrasts and constant changes. Some stiles and some climbing.
-portraitMap: false
 ---
 With the Hurtwood Inn on your right, walk up the road. Almost immediately turn right off the road through a wooden kissing gate into an enclosed path going uphill. At the top pass an open grassy area on your right then buildings on your left. Reach a gravel drive. Turn right on this down to a road. Turn left on the road.
 

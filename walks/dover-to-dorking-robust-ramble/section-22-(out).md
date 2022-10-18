@@ -8,7 +8,6 @@ details:
   Start: By the station approach to South Godstone railway station. Parking on road around the village.
   Comment: >
     An interesting and varied walk in countryside typical of this area. There are many stiles and in a lowlying area you should be prepared for some mud and boggy patches after periods of rain.
-portraitMap: false
 ---
 With the former pub, now The Lagham bar and restaurant on your right, and the station vehicle entrance on your left, walk uphill a few paces to a gap in a brickwall on your left by a bus stop. Go through this gap and ahead through new housing in St. Stephen’s Court.
 

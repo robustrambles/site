@@ -8,7 +8,6 @@ details:
   Start: The Calleva Arms in Silchester
   Comment: >
     A pleasant and varied walk much of it in woodland but also across heathland and open pasture. Some of the paths may have standing water after heavy rain.
-portraitMap: false
 ---
 From the Calleva Arms cross the road junction to the car park of the parish hall. Walk up the car park and leave it on a grassy footpath. Follow this through trees to emerge onto a road. Turn left on the road and walk up, past roads coming in on the left to reach a T-junction at the very top.
 

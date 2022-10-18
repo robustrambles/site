@@ -8,7 +8,6 @@ details:
   Start: The Barley Mow, Shackleford
   Comment: >
     An easy return half along the North Downs Way, then down Puttenham Common with excellent views. Care is needed here as there are several unofficial paths. The final section passes historic Lydling Farm with its prize herd of cattle.
-portraitMap: false
 ---
 With The Barley Mow pub on your left, continue on along the road ignoring side roads by the pub. Soon reach another crossroads and go straight across. Keep on to a Y-fork by a golf club house. Here turn right and follow the road along the edge of a golf course for ¼ mile to reach a footpath going off right over a footbridge.
 

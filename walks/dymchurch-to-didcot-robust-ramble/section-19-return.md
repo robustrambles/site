@@ -8,7 +8,6 @@ details:
   Start: The Crown pub in Horsted Keynes
   Comment: >
     A varied walk full of interest. Look out for the Californian Big Tree.
-portraitMap: false
 ---
 From the village shop, cross the road and walk down the side of ‘The Crown’ pub to a playing field. Bear right across to a gap in the hedge and reach a lane. Turn left on this to soon reach a crossroads. Go straight across and down Wyatts Lane (this is on the Sussex Border Path) for some way as it winds downhill. Ignore two footpaths going off left. At the bottom of the hill the vehicle road finishes. Ignore a footpath off right and go straight ahead into a wide earthen track enclosed by trees.
 

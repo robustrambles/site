@@ -8,7 +8,6 @@ details:
   Start: The Maypole in High Hurstwood, ask about parking.
   Comment: >
     Increasingly wooded and steep countryside with sandy heathland.
-portraitMap: false
 ---
 With ‘The Maypole’ pub on the right, walk uphill with a playing field on the right. Pass a side road on the left and soon reach a Y-fork. Bear right, uphill, for ¼ mile. Just past a farm entrance on the left, look for a gap in the holly hedge on the left. Go through a swing gate into an area of scrub (this path is part of the Vanguard Way). Follow this pleasant path as it passes through woods then continues on across a field towards a church. Exit onto the church drive and turn left down to a road.
 

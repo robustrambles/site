@@ -8,7 +8,6 @@ details:
   Start: "&#x2018;Shoulder of Mutton&#x2019; Pub on A 3011 in Hazeley."
   Comment: >
     The footpath network is very poor around here and lack of linkage means some road walking. Paths are very overgrown or non existent; paths through crops are not reinstated. Brambles, nettles and especially bracken suggest thick trousers. Do not attempt this section if light is poor or days are short.
-portraitMap: false
 ---
 With the ‘Shoulder of Mutton’ pub on your left, walk up the road to the T-junction with the main road. Cross with care and immediately turn right down Plough Lane.
 

@@ -8,7 +8,6 @@ details:
   Start: The Woodcock Inn on the south east side of Iden Green; there is a car park in the wood opposite
   Comment: >
     This is a section with very varied walking experiences, adding parkland, lakes and windmills to fields and orchards. There is a short section of roadwalking that needs care, with suggestions to avoid some of it. The route is not always easy to find so keep checking map, landmarks and direction. Allow plenty of time.
-portraitMap: false
 ---
 Walk back up the concrete track by the car park entrance and take the enclosed path back up to the orchard. Keep up through the orchard rows to the very top. Here turn left for a short distance to reach the top corner of the orchard. Turn right through a gap into an enclosed path and soon emerge onto a road.
 

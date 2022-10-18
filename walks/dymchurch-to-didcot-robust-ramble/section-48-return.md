@@ -8,7 +8,6 @@ details:
   Start: Broadway pub at the lower end of Didcot main shopping street.
   Comment: >
     This is an easy return, mostly on bridleways which can be muddy.
-portraitMap: false
 ---
 With the Broadway pub behind, turn left down the main road, past the Post Sorting Office to reach a light controlled pedestrian crossing. Cross to the other side and continue down the main road.
 

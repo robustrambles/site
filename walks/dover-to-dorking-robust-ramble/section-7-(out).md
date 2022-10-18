@@ -8,7 +8,6 @@ details:
   Start: The Farrier&#x2019;s Arms or old mill access; some on road parking.
   Comment: >
     This is a demanding section with obscure or unmarked paths and poor stiles. Keep a constant eye on the map and check directions very carefully. The expansion of Ashford reaches out to Kingsnorth.
-portraitMap: false
 ---
 With ‘The Farrier’s Arms’ on the left, go ahead down the road, which is appropriately called Flood Street (ignore side road off on the right). Follow the attractive raised pavement which leads to a wayside seat. Here cross the road to a stile and footpath cutting across the righthand corner of a field to a fieldgate by a solitary tree.
 

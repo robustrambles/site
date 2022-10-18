@@ -8,7 +8,6 @@ details:
   Start: The Holmbush Inn in Faygate.
   Comment: >
     A walk of woods, hills and valleys interspersed with dairy farms; once again permissive paths are used at the beginning and the end. Another flat crossing of the A264 is necessary needing the greatest care.
-portraitMap: true
 ---
 With the Holmbush Inn on the right, walk back down the road to the roundabout. Ignore the turning left and continue down to a major roundabout on the A264. Go to the left of the roundabout where there is a dedicated pedestrian crossing. The traffic is not controlled so wait until no traffic is coming around the roundabout.
 

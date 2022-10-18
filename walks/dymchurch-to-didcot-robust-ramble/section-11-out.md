@@ -8,7 +8,6 @@ details:
   Start: The Castle Inn by Bodiam Bridge. Car Parks for the castle visitors available but possible charge.
   Comment: >
     A pleasant walk through fields and woods. Some stiles and a little road walking. The crossing of the A21 to reach Robertsbridge needs care and patience.
-portraitMap: false
 ---
 With The Castle Inn on your left, walk past the front of the building and turn left on the driveway going down to the inn car park. Pass the car park on your left and continue forward on the drive passing a playing field on the left. Walk along this drive for ¾ mile. Ignore all turnings off to the right. Cross two stiles by metal fieldgates.
 

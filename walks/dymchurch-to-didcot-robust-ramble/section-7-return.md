@@ -8,7 +8,6 @@ details:
   Start: The Star pub on the main road through Rolvenden
   Comment: >
     Quite a tricky return in isolated countryside, needing careful map reading and attention to detail; few waymarks. Be prepared to climb over fieldgates.
-portraitMap: false
 ---
 With The Star pub behind, turn left back down the main road, passing the village shop, and keep on across the side road on the left (B2086), back towards Tenterden. On the outskirts of the village, just before the main road swings right, by a sports field on the left, go left off the road on a grassy track by the side of a white clapperboard cottage.
 

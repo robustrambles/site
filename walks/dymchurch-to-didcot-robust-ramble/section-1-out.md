@@ -8,7 +8,6 @@ details:
   Start: Main car park off A259 in Dymchurch town centre
   Comment: >
     The pub at Newchurch has closed so take a picnic. There is a restaurant open Wednesday to Sunday lunchtimes. The pub at St. Mary-in-the-Marsh is on the return route. There are many stiles on Romney Marsh often in poor condition. Much of the pasture land is now cultivated and paths may not be reinstated. In early summer rape and pea crops often fall across paths making progress slow. Always allow plenty of time for the walk; always take an OS map. A stick or walking pole is recommended. This first section makes the point from the start of calling this a robust ramble. Splendid churches at Dymchurch, Newchurch and St. Mary-in-the-Marsh where E Nesbit the author is buried; the famous narrow gauge railway and the traditional resort of Dymchurch
-portraitMap: false
 ---
 From the main car park in the centre of Dymchurch cross the main road and go up by the side of the City of London pub to reach a narrow backroad. Turn left on this and walk along above the main road down on the left. Keep forward passing houses and cottages on the left. The sea defence wall is up on the right (this may be walked along instead of the backroad if preferred). Soon reach a private green down on the left surrounded by Edwardian houses.
 

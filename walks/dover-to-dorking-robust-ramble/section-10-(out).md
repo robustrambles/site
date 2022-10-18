@@ -8,7 +8,6 @@ details:
   Start: The George, Bethersden; some on road parking
   Comment: >
     Pretty villages and interesting churches in varied countryside. However the walking is not all easy with many stiles and feint paths. Also farms with cattle can create access problems and heavy terrain. The many ponds and streams in this area indicate possible muddy tracks at wetter times of year.
-portraitMap: false
 ---
 From the ‘George Inn’ turn left a short distance to enter the churchyard. Walk across on a paved path with the church on the left, to a gate at the far side by a large tree. Keep on, by a fence, to a kissing gate and on again by a house to a road.
 

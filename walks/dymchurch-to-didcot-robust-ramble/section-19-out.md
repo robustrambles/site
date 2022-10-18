@@ -8,7 +8,6 @@ details:
   Start: The Coach &#x26; Horses at Chelwood Gate.
   Comment: >
     A short stretch in varied countryside with longer return.
-portraitMap: false
 ---
 With the ‘Coach and Horses’ pub on the right, walk away from the main road down a side road past a post box. Keep on the road to a junction. Here turn right a short distance. Look for a car parking area on the left. Walk down this to a very narrow footpath enclosed between fences. At the bottom cross a footbridge and go up to a T-junction.
 

@@ -8,7 +8,6 @@ details:
   Start: Dorking Deepdene railway station; a commuter station so very difficult parking in this area; public car parks in Dorking but may be time and price limited.
   Comment: >
     A quite short and easy stretch of walking. Some hidden corners of Victorian Dorking at Pixham then easy walking along the Old Coach Road to the splendid village green at Brockham, which also boasts two pubs and an animal pound. It&#x2019;s then but a short distance by fields to the churchyard at Betchworth and &#x2018;The Dolphin&#x2019; beyond.
-portraitMap: false
 ---
 From Dorking Deepdene Station turn downhill, along the main road, away from the railway bridge towards a petrol station over on your right. Soon pass Brook Close on your left and turn down an enclosed footpath on your left.
 

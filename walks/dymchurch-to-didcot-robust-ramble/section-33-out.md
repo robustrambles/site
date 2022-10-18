@@ -8,7 +8,6 @@ details:
   Start: The Queen&#x2019;s Head, Farnham
   Comment: >
     A pleasant walk in undulating countryside. Sections are muddy after wet weather. Crondall is an attractive village with a church worth a visit.
-portraitMap: false
 ---
 From the Queen’s Head retrace your steps a short distance to Castle Street. Turn up here. Look out for an alleyway off left called Long Alley Walk, it is signposted on The Scholars Way. Soon pass the Hop Blossom pub and keep on to go up the side of a supermarket and left along the top side by a car park. Keep on along the road to pass the buildings of the University of Creative Arts.
 

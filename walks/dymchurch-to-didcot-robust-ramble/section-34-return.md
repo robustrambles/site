@@ -8,7 +8,6 @@ details:
   Start: The Waterwitch pub in Odiham
   Comment: >
     A pleasant walk with just one rather boggy stream to cross. There are constant changes of direction and new vistas to see. The road walking section is very quiet. There are some excellent timber framed farmhouses to enjoy. There are many stiles.
-portraitMap: false
 ---
 From the car park of the Waterwitch pub, turn right uphill on the road on the same route as before. Just over the brow of the hill, opposite a red post box, turn left up an asphalt drive. This passes the side of a house and narrows down to an enclosed footpath. Follow this for some way, then through two metal kissing gates to reach a main road.
 

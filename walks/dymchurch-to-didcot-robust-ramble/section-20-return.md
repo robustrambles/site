@@ -8,7 +8,6 @@ details:
   Start: The Ardingly Inn in the village. Parking there by arrangement or on street.
   Comment: >
     Typical constantly varying walking environment of trees, fields, ponds and streams. There are stiles and occasional muddy patches.
-portraitMap: false
 ---
 With the Ardingly Inn on the right walk down the road to reach College Road. Cross this and go up to reach a main road. Turn right down this a short distance. Just past Ardings Close on the left turn right off the road down an asphalt drive. Bear right at the end then left down a narrow footpath enclosed between fence and trees (this is part of the High Weald Landscape Trail.
 

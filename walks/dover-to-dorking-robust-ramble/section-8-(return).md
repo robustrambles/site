@@ -8,7 +8,6 @@ details:
   Start: The King&#x2019;s Head, Shadoxhurst
   Comment: >
     Once more some difficult moments with little trace of paths, few waymarks and a missing footbridge. Chilmington Green is unfortunately the site of another huge expansion of Ashford, but the Greensand Way should be protected back to Kingsnorth.
-portraitMap: false
 ---
 From the Kings Head car park, cross the road to a path down the side of the end of a terrace of houses, and pass down the side of its back garden to a stile. Keep ahead along the edge of a horse paddock. At the far end turn left for a short distance, then right over a footbridge and through a metal gate into a field.
 

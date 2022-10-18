@@ -8,7 +8,6 @@ details:
   Start: Headcorn Station in town centre; car parks and on street parking (but to be sought out in roads behind the main street).
   Comment: >
     A good walk with variety and interest. The paths are not always easy to find, there are stiles and maybe gates to climb. This is a low lying area with many streams and ponds, so be prepared in wet weather.
-portraitMap: false
 ---
 From Headcorn Station walk down the entrance road to meet the main road. Turn left and walk along, between shops, towards the parish church. Where the road turns sharp right, turn left through a lych gate and walk along a path of patterned bricks passing the church on your right.
 

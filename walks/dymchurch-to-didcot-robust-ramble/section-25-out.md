@@ -8,7 +8,6 @@ details:
   Start: Friday Street, near Rusper, and the site of the former Royal Oak pub. Limited parking.
   Comment: >
     Sadly the Royal Oak pub in Friday Street is now closed, but from here there is an excellent and varied day of walking with constant changes of direction and views. Some wonderful farm houses and tranquil woodland paths. A short section of the A24 needs special care and the whole walk contains many stiles, some broken and some very high, as well as many footbridges. After rain stiles and footbridges become very slippery and extra care should be taken.
-portraitMap: false
 ---
 With the Royal Oak on the left, walk downhill a short distance. Opposite the pub car park entrance, turn right up a gravel drive to Little Benham’s Cottage. Soon leave the drive and go by a wooden fieldgate into a field. Go ahead along the fence on the left and in the next field continue to follow the fence to a gap in the trees ahead.
 

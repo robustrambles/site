@@ -8,7 +8,6 @@ details:
   Start: The Half Moon Inn in Balcombe village.
   Comment: >
     Hilly terrain with some steep climbs, excellent woodland section but many stiles, good views, mostly pasture with livestock, Nymans Gardens are open to the public.
-portraitMap: false
 ---
 With the main entrance of the Half Moon Inn on the right, walk the few paces up to the crossroads in the centre of Balcombe. Turn right and walk away from the centre passing the side of the inn on the right. Keep down the road to a junction by a green with a school opposite.
 

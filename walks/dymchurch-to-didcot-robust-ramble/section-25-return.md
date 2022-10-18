@@ -8,7 +8,6 @@ details:
   Start: The Punchbowl Inn, Oakwoodhill
   Comment: >
     This is an enjoyable but complicated walk with constant changes of direction and many instructions to follow. Keep an careful eye on the map.
-portraitMap: false
 ---
 With the Punchbowl Inn behind, turn left back down the road to the junction. Bear right down the side road. Ignore a path going off at Ruckman’s Lane and keep on along the road. Pass the amazing old farmhouse at Boswell’s Farm sadly propped up by rusting scaffolding.
 

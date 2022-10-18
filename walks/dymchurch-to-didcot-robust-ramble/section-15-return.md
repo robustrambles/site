@@ -8,7 +8,6 @@ details:
   Start: The Five Ashes Inn, some on street parking.
   Comment: >
     A short walk with some hilly stretches. A short link on a busy road without a pavement on the outskirts of Mayfield; care and a hi-viz vest desirable (light and easy to carry for all road walking). An alternative route back through the village centre is provided.
-portraitMap: false
 ---
 With the Five Ashes Inn behind, cross the main road and go up Leeds Lane opposite for nearly a mile. At a Y-fork turn left up Mere’s Lane. Pass the buildings of Mere’s Farm on the right and a bungalow then turn right off the road over a stile by a wooden fieldgate.
 

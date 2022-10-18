@@ -8,7 +8,6 @@ details:
   Start: The Calleva Arms, Silchester Common Car Park
   Comment: >
     a short and varied section with a good mix of forest and field walking.
-portraitMap: false
 ---
 With the ‘Calleva Arms’ on your left and the common on your right, walk away from the road junction towards a children’s play area. Almost immediately turn left along a side road called Dukes Ride. Pass houses on your left. Where the road swings left, bear right onto a track upto a gate into trees. Keep on this path for ½ mile, ignoring side tracks.
 

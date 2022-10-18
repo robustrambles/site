@@ -8,7 +8,6 @@ details:
   Start: The Three Horseshoes, Irons Bottom, limited on road parking or ask at pub.
   Comment: >
     A shorter but pleasant section with wide views to the North Downs with secluded and tranquil countryside. Leigh church and the village green compensates for a final stretch along the road to Dawes Green. Stiles remain a common feature.
-portraitMap: false
 ---
 With ‘The Three Horseshoes’ behind, bear right across the road towards a telephone box. Just past this is a gap in the hedge leading to a footpath. Walk away from the road, straight across the field with a hedge and trees a little way over on your right. At the far side the path emerges onto an asphalt drive. Bear left on this and continue for ½ mile (ignore a footpath off right halfway along).
 

@@ -8,7 +8,6 @@ details:
   Start: The Hind&#x2019;s Head pub in Aldermaston
   Comment: >
     A walk starting through quiet country on little used paths then winding through the rural/urban development around the large government research establishment south of Aldermaston. Most of the walking is off road and a pleasant mile across Pamber Heath rounds off an interesting excursion.
-portraitMap: false
 ---
 With The Hind’s Head pub on your right, walk down the road away from the road junction towards a school (a sign is visible). Soon pass the school on your right and continue along the road for 50 metres.
 

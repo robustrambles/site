@@ -8,7 +8,6 @@ details:
   Start: From the site of the old Reformation pub, now closed, in Gallowstree Common.
   Comment: >
     Some short sections of road walking to link some marvellous woodland paths. The roads are quiet country ones but there are some tricky junction crossings. Do not take risks; wait until you are certain that no vehicle is coming especially around blind corners. The final stretch is through rolling open country.
-portraitMap: false
 ---
 With the site of the old ‘The Reformation’ pub on your right, go forward along the main road. Cross a side road which leads into the village and continue to reach a staggered crossroads. Keep straight on with care as the verge ends. Pass a house and outhouses on your right and carefully keep on looking for a gap on your right into the woods (unfortunately this gap is on a blind corner so take extra care; it’s better to cross the road until the gap is located).
 

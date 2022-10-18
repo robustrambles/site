@@ -8,7 +8,6 @@ details:
   Start: From &#x2018;The Drum Inn&#x2019;, ask about parking there if intending to visit otherwise on street parking possible.
   Comment: >
     An interesting and varied walk with some tricky stiles in prickly hedges (secateurs worth carrying). Some good views and occasional traffic noise from the M20.
-portraitMap: false
 ---
 With The Drum inn on the right, walk down the road into the village. Ignore a path going right immediately past the pub car park. Pass houses on the right until opposite a close of houses on the left, just short of a turning off to the church. Stop by a yellowish gravel drive on the right.
 

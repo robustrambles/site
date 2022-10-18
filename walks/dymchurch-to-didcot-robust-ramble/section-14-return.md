@@ -8,7 +8,6 @@ details:
   Start: The Carpenters Arms in Mayfield may be closed so start from the nearby Rose &#x26; Crown. Turn right along Fletching Street to the first turning left called The Avenue. This is the site of the Carpenters Arms with the footpath opposite.
   Comment: >
     A pleasant walk through fields and woods with stiles and possible growing crops. Hilly country means some good views.
-portraitMap: false
 ---
 With the old Carpenters Arms behind cross the road to the turning opposite called The Avenue. Do not go along this road but instead go straight downhill, on a grassy track to a stile by a wooden fieldgate into a field.
 

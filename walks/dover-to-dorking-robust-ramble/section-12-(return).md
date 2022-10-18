@@ -8,7 +8,6 @@ details:
   Start: The King&#x2019;s Head and the parish church in Staplehurst.
   Comment: >
     This is interesting countryside but very heavily cultivated. Paths are either difficult to find or heavily used farm tracks. There is a small amount of road walking. There is an attempt to obliterate the right-of-way on the final stretch. An alternative is given. However the route can be walked, with careful map reading and some determination, so, for those who are able, have a go and assert our walking rights !
-portraitMap: false
 ---
 From the King’s Head, return to the churchyard and walk back past the church. At the end of the building, turn left along the end of the church to a wall. Continue down the back of houses on a stone slabbed path to a road and turn right.
 

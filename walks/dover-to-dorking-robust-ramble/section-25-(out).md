@@ -8,7 +8,6 @@ details:
   Start: The Seven Stars, Dawes Green, limited on road parking or ask at the pub
   Comment: >
     An excellent walk with some steep climbs but splendid views. Many stiles but generally in good condition. A small amount of roadwalking. Buckland is a pleasant village before the climb up onto the North Downs  Way. There is a clear diversion around an excavation near to Betchworth.
-portraitMap: false
 ---
 With the ‘Seven Stars’ pub on your left, turn left off the main road up Tapner Road for ½ mile. Where the Gadbrook Road comes in on the left, turn right, off the road along a tarmac drive.
 

@@ -8,7 +8,6 @@ details:
   Start: The Blue Anchor pub in Ruckinge village centre
   Comment: >
     A walk of contrasts from marshland to hilly woodland.There are demanding moments with poor stiles and paths not reinstated through growing crops. There were serious problems in this area with no evidence of some paths at all. Check the route on the map and allow plenty of time and daylight. It is always wise to carry a compass.
-portraitMap: false
 ---
 Leaving the Blue Anchor turn left downhill a short way to reach a side turning signposted ‘Newchurch’. Turn down this road. Soon cross the bridge over the Royal Military Canal and go on a short distance. Where the road bends right enter a field on the left.
 

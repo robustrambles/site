@@ -8,7 +8,6 @@ details:
   Start: The Star Inn, on the main road in Rolvenden; some on road parking nearby.
   Comment: >
     A pleasant stretch in quiet countryside with fields woods and orchards. A section on country roads, and, as ever, stiles.
-portraitMap: false
 ---
 With The Star inn on the right, go on up the main road towards the parish church. Follow the main road as it bends right by the church. Turn off right on a track down the side of a school. Go through a metal kissing gate into a playing field. Two paths go off here. Take the lefthand one, part of the High Weald Landscape Trail, and go diagonally left across the field to enter a wood.
 

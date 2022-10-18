@@ -8,7 +8,6 @@ details:
   Start: The Royal Oak pub has its own parking, also car park in Staffhurst Wood.
   Comment: >
     A varied and pleasant country walk with just some confusion of paths on the final approach into Edenbridge, at least you can see where you are going. Remember this is a lowlying area and a flood plain.
-portraitMap: false
 ---
 With the ‘Royal Oak’ on your left walk down the road a few paces looking for a footpath on the left by the pub car park. Cross a stile by a fieldgate. Follow the hedge on your left around and uphill to a stile. Over the stile bear left down a grassy field to a stile at the bottom just left of buildings.
 

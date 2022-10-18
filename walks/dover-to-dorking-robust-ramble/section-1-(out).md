@@ -8,7 +8,6 @@ details:
   Start: Dover Priory Railway Station (cars may be parked further out of the town centre thus avoiding road walking at the beginning and end of the walk)
   Comment: >
     This walk begins near the busy heart of Dover along a main road. It soon swings up and away from the town into quiet, secluded countryside and villages a world away from the urban rush. The return is almost straight back along an extended ridge with fine views of Dover Castle directly ahead. The pub at West Hougham has closed and there are no other services. However directions are given to an alternative just off the route.
-portraitMap: false
 ---
 From the main entrance to Dover Priory Station turn right up the approach road. Soon take a flight of steps up on the right to reach the main Folkestone Road (B2011). Keep along here for half a mile to reach a distinctive Y-fork. Bear right here onto Hougham Road. In a short distance look for a narrow, rather rough, road forking left up behind shops and houses. This is Cow Lane although there may not be a name sign.
 

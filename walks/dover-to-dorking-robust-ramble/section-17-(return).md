@@ -8,7 +8,6 @@ details:
   Start: The &#x2018;Fleur-de-lis&#x2019;pub. It&#x2019;s usually possible to park around the village green. Leigh Rail Stationis further down the road which passes the side of the &#x2018;Fleur-de-lis&#x2019; pub.
   Comment: >
     Leigh village is an attractive place with many buildings of character. A generally easy walk with some stiles and occasionally muddy bridleways. Pleasant walking in Haysden Country Park.
-portraitMap: false
 ---
 From the ‘Fleur-de-lis’ pub turn left down the road at the side past the car park and then immediately left again down Kiln Lane at the back of the pub. At the end of the lane, pass through a gap into a road. Turn left and follow the road as it winds around (ignore a close on the right).
 

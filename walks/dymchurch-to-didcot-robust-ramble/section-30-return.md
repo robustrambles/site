@@ -8,7 +8,6 @@ details:
   Start: The Cyder Inn in Shackleford
   Comment: >
     A varied walk around the outskirts of Godalming which, no doubt, will continue to see housing development. The walk passes the famous locations of Chaterhouse School and Loseley House. There is considerable heritage in this area.
-portraitMap: false
 ---
 With the door of The Cyder Inn behind, turn right towards the village centre. Just before a small car park near a road junction, turn right up a narrow sandy bridleway. Follow it uphill to emerge onto a road. Cross to Roker’s Lane opposite which is also a bridleway.
 

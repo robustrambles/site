@@ -8,7 +8,6 @@ details:
   Start: The start is from the site of the former Winning Hand pub, now closed, near Ufton Lock on the A4. A little further north up the main road is The Spring Inn. Allow plenty of time to find parking. It&#x2019;s particularly difficult here now that the pub has closed.
   Comment: >
     This is a difficult area for walking with rivers, a canal, railway lines, major roads, a motorway and the effects of past and continuing mineral extraction. This walk has some pleasant walking in secluded countryside balanced by bridleways with tarmac or gravel surfaces. At least it&#x2019;s difficult to get lost. There is a short section of road walking which needs great care; a hi-viz waistcoat improves the reaction of drivers.
-portraitMap: false
 ---
 Face north up the main road. The side road coming up from Ufton Lock will be across on your right and just past the building that was the old Winning Hand pub is a side road going off left to Southend. Walk up the main road and cross this side road. Continue up the pavement alongside the busy A4 main road. In 100 metres reach and pass the isolated Victoria Lodge on your left. (to reach the Spring Inn stay on the main road for ¼ mile , returning here afterwards). At Victoria Lodge, immediately turn left, off the main road, down a long straight private road for ¾ mile.
 

@@ -8,7 +8,6 @@ details:
   Start: Five Oak Green village centre; some on road parking
   Comment: >
     A linear walk with a straightforward approach into Tonbridge. However the first section involves some careful navigation to Tudeley Hale across a large and open field with little to aim for.
-portraitMap: false
 ---
 From the village shop at Five Oak Green, cross the little green and turn right up a side road signed to ‘Whetsted’. Soon cross a humpback bridge over a railway. Immediately over the bridge, turn left along the drive to Moat Farm. Keep along for some way. Just before the farm buildings turn left alongside a brick outbuilding (the path has been diverted along this route avoiding passing through the farm buildings).
 

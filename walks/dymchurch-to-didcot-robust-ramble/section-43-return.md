@@ -8,7 +8,6 @@ details:
   Start: The Sun Inn in Hill Bottom, Whitchurch Hill, on street parking is possible.
   Comment: >
     A pleasant stroll down to Whitchurch through open countryside and some woodland. Large herds of alpacas add interest. Over Whitchurch bridge there is a popular section of the River Thames Path. The final section is along a secluded section of the River Pang. Small amounts of quiet road walking.
-portraitMap: false
 ---
 With The Sun pub on your left, walk on down the road out of the village. At a road junction bear left and continue round the bend and down to a byway off right between hedges. Go up then downhill on the track. Look for a wooden kissing gate in the hedge on your left.
 

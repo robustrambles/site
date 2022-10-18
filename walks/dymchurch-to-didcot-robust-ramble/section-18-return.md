@@ -8,7 +8,6 @@ details:
   Start: The Coach &#x26; Horses pub at Chelwood Gate. Ask about parking.
   Comment: >
     Lots of wood including Sheffield Forest. Much open access land so be careful of permissive paths not on the OS map.
-portraitMap: false
 ---
 With the ‘Coach and Horses’ behind cross to the side road, Coach Lane, opposite. Walk up his lane for 200 metres to reach a T-junction. Turn right on the road going downhill for 150 metres then left down a side road opposite Ashdown House.
 

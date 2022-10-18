@@ -8,7 +8,6 @@ details:
   Start: The Five Ashes Inn, ask about parking.
   Comment: >
     A varied walk through undulating countryside with stiles and the odd rough patch.
-portraitMap: false
 ---
 With the Five Ashes Inn on the left walk up the main road. Turn down the first road on the left and walk along for some way. Just past a converted oast turn left along a side road. Keep on for ½ mile. Pass a farm on the left then reach the entrance drive to Broadreed Farm on the right. Turn off here along the concrete drive.
 

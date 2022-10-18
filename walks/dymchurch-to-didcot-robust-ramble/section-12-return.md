@@ -8,7 +8,6 @@ details:
   Start: From the church in the centre of Etchingham. Some on street parking.
   Comment: >
     Not a long walk but slowed up by decrepit stiles and footbridges and possible very wet sections. Follow the instructions carefully.
-portraitMap: true
 ---
 Leaving the church re-cross the road and return through the low kissing gate and concrete bridge into the field. Bear right across the field towards the far right corner. Just left of the corner, by power lines, cross a stile into the sloping field beyond. Go diagonally right up the field to a metal fieldgate at the far end of a wood. Through the gate go on up a wide grassy area. On nearing a white clapperboard house bear right to a wooden gate leading down to a road.
 

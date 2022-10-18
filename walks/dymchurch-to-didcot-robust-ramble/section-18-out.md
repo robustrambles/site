@@ -8,7 +8,6 @@ details:
   Start: The Nutley Arms, ask about parking.
   Comment: >
     A short walk but full of interest in wooded countryside.
-portraitMap: false
 ---
 With the ‘Nutley Arms’ on the right, walk back up the main road. Pass the village shop on the right and continue up to reach the parish church on the left. Turn left off the main road on the side road called Bell Lane just before the church. Keep along the road for nearly ½ mile.
 

@@ -8,7 +8,6 @@ details:
   Start: The Manor Inn, Broadwater
   Comment: >
     An excellent walk on traditional country paths across quiet hills and valleys; virtually no field walking and only one stile. Snowdenham house rewards a few moments attention.
-portraitMap: false
 ---
 From the car park of the Manor Inn, turn left along the main road. In 50 metres turn left off the road down a private road to River Mist Cottage and Bunker Hill Farm. Soon cross the River Wey and keep on for ¼ mile.
 

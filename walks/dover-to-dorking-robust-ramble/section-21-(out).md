@@ -8,7 +8,6 @@ details:
   Start: The Royal Oak at Staffhurst Wood; parking at both places.
   Comment: >
     A typical walk for this area. Some pleasant and varied countryside with fields and woods. The paths are not always easy to find, especially through farms and farm conversions. There are stiles and stretches of path may be muddy. Take great care emerging onto the A22 at South Godstone.
-portraitMap: false
 ---
 With the ‘Royal Oak’ pub on your right, walk uphill a few paces. Turn left off the road through a gate into Great Earl’s Wood. Follow a clear path bearing right through the wood. Ignore a cross path by a seat and continue ahead.
 

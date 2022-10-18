@@ -8,7 +8,6 @@ details:
   Start: From the junction of roads by the village hall and telephone box; it is possible to park on-road in the village
   Comment: >
     A long, straightish walk on high land above Dover with excellent views. Easy walking, with some road walking to return to the station.
-portraitMap: false
 ---
 Pass the village hall and telephone box on the right and continue along the road past the site of the Chequers Inn, a large detached building laying back on the right to be developed as houses. Soon pass a road going off left into houses. Then reach the end of the village, by a road on your left, and the end of a wood, by open fields, on the right.
 

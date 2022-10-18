@@ -8,7 +8,6 @@ details:
   Start: From the &#x2018;Fleur-de-lis&#x2019; pub at the west end of Leigh. The rail station is a short distance down the hill. Parking is usually to be found on the side roads around the village green.
   Comment: >
     An excellent walk in tranquil countryside with a mixture of woodland, pasture land and arable, sadly all the hop gardens have gone. There are many stiles.
-portraitMap: false
 ---
 With the ‘Fleur-de-lis’ on your right, walk up the main street in Leigh, passing the village shop and the ‘Bat & Ball’ pub. On reaching the corner of the village green turn left up the narrow side road opposite to the parish church. Enter the churchyard and bear right, past the church, to exit through the gateway at the far side.
 

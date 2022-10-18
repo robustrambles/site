@@ -8,7 +8,6 @@ details:
   Start: Smarden, Chequers Inn; there is a village car park
   Comment: >
     A section with considerable country road walking as footpaths are few and far between and without obvious links. This is low lying country so there may be mud after wet spells.
-portraitMap: false
 ---
 With the Chequers Inn on your right, walk towards the church and immediately turn right along Water Lane. Walk on the pavement for some distance. Pass the magnificent Cloth Hall on the left and keep on to the end of housing on the right.
 

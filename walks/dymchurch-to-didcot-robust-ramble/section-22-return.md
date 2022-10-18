@@ -8,7 +8,6 @@ details:
   Start: The Red Lion pub in Handcross.
   Comment: >
     There is not an easy route back so a little roadwalking is required, take great care, a route is suggested through part of the National Trust access land at Nymans Gardens, these are worth a longer visit. There are hills and many stiles.
-portraitMap: false
 ---
 With the Red Lion pub behind cross the main road with care and turn right. At each road junction ahead bear left towards Nymans Gardens. Pass a car park on the left. Keep forward on the road verge. On reach a tall hedge on the left look for a path just off the road between two hedges. Follow this along by the road. On reaching a garden gate go back onto the road. Cross over and keep forward in the same direction. Look for a private vehicle entrance going off on the right. Just past it step off the road into National Trust access land. Walk away from the road a short distance then turn left on a feint path through rhododendrons. On reaching a cross track go right a few paces then left on a path to the ‘Wild Garden’.
 

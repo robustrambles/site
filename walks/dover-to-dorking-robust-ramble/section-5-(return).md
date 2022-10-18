@@ -8,7 +8,6 @@ details:
   Start: From &#x2018;The Woolpack&#x2019; ask about parking if intending to visit, otherwise onstreet in the village.
   Comment: >
     A varied and interesting walk with stiles and short, steep climbs; the paths through Hope Farm may need searching out.
-portraitMap: false
 ---
 With ‘The Woolpack Inn’ on the right, walk back, past the pub car park on the right, to a road junction. Do not go right but cross with care to go forward on the road ahead. Walk along this to its end at a T-junction. Turn left here and, in a short distance, reach a row of shops.
 

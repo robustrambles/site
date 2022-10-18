@@ -8,7 +8,6 @@ details:
   Start: At the New Inn; ask about parking or some on road parking
   Comment: >
     An excellent section with varied views and the hilly countryside typical of the downs; some stiles.
-portraitMap: false
 ---
 With the New Inn on the right, go forward along the road for a short distance looking for an enclosed path going off on the left (signed as an Elham Valley Way Link Route). Go up this narrow path between fences, cross a footbridge and continue between paddocks to eventually reach a stile. Cross this to continue diagonally uphill across a field to a stile in the top righthand corner.
 

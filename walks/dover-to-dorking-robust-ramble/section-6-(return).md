@@ -8,7 +8,6 @@ details:
   Start: The Farriers Arms on the mill approach road
   Comment: >
     Although a relatively short section the paths in the first half are not at all easy to find and progress may be slow. Views in the second half are good and the parkland makes a real change.
-portraitMap: false
 ---
 With the ‘Farrier’s Arms’ on the left go forward to soon reach a road junction. This is Blind Lane. Turn right along here. Footpaths off this lane are impassable so walk along the lane for nearly a mile. Eventually turn right under a railway bridge. Soon turn right on a new footpath running parallel with the new Channel Tunnel Rail Link on the right. The path is difficult to follow but keep forward to pass a house and garden on the left. Immediately enter a rough rising field. Walk diagonally right, uphill, to the top right corner and a stile hidden in a hedge just left of the corner (very poor, overgrown stile).
 

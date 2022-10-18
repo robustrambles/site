@@ -8,7 +8,6 @@ details:
   Start: The Waterwitch by Basingstoke Canal
   Comment: >
     A straightforward short and open walk through mixed use countryside, the busy M3 motorway contrasting with the natural history of Bartley Heath. The odd boggy moment.
-portraitMap: false
 ---
 With the Waterwitch pub on your right, walk up the road. Just over the brow of the hill turn right on a footpath on a gravel track between houses. At the end reach a metal kissing gate by a metal fieldgate. Go through in to a large triangular field. Walk continue to walk directly away from the road behind. Keep along the top side of the field on a feint grassy path parallel to the hedge over on your right.
 

@@ -8,7 +8,6 @@ details:
   Start: Edenbridge High Street;car parks available
   Comment: >
     An enjoyable country walk but careful navigation needed across a golf course with the usual lack of waymarks, and confusing paths in Staffhurst Wood. Always allow plenty of time for the need to search out paths.
-portraitMap: false
 ---
 From the ‘King & Queen’ pub turn right up Edenbridge High Street. Pass the entrance to the Co-op supermarket, on your left, then the ‘Old Crown Inn’, and the Eden Valley Museum. Turn down the first turning left. At the end reach the town centre bypass.
 

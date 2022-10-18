@@ -8,7 +8,6 @@ details:
   Start: The Greyhound pub at Tidmarsh; the pub car park seems the only parking in the village.
   Comment: >
     This is an easy to follow section with a pleasant start, a long section down Nunhide Lane with good views if a little hard on the feet, some safe roadwalking through Theale and an excellent section of canal walking with narrow boats, locks, swing bridges and water meadows to enjoy.
-portraitMap: false
 ---
 With The Greyhound pub on your left, turn left down the side road, Mill Lane. Just before a narrow bridge, turn left down a footpath by a river and soon cross a footbridge. Go over to a stile and cross into a field.
 

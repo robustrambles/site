@@ -8,7 +8,6 @@ details:
   Start: The Plume of Feathers in Crondall
   Comment: >
     A pleasant and straightforward walk through undulating countryside presenting unfolding scenes and excellent views. There is a short stretch of permissive path and longer sections of road walking, although this is on very minor country roads with little traffic. There are many stiles. One farm has an interesting stock of horses, ostrich and Llamas.
-portraitMap: false
 ---
 With The Plume of Feathers on your left ignore the road down the side and go straight ahead along Well Road, heading out of the village. Just past a pond on the right, turn right up Itchel Lane for ¼ mile. At a Y-fork bear right and continue on to a T-junction.
 

@@ -8,7 +8,6 @@ details:
   Start: The Crooked Billet pub on the east side of Hook on the A30.
   Comment: >
     Pleasant walk of constant twisting and changing paths providing much interest and contrasts from woods to heaths to secret shady ways; some boggy patches
-portraitMap: true
 ---
 With the Crooked Billet pub on your right walk up the main road towards Hook (ignore a footpath down the side of the pub). Soon pass a Snack Bar and keep on to Hook House Hotel. Here turn right up a gravelled bridleway called Searl’s Lane.
 
