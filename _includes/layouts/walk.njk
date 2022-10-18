@@ -28,10 +28,20 @@ templateClass: tmpl-walk
 {%- set previousWalk = collections[walkSeries] | getPreviousCollectionItem(page) %}
 {%- if nextWalk or previousWalk %}
 <hr>
-<nav>
+<nav class="walk-sequence">
   <ul>
-    {%- if nextWalk %}<li>Next: <a href="{{ nextWalk.url | url }}">{{ nextWalk.data.title }}</a></li>{% endif %}
-    {%- if previousWalk %}<li>Previous: <a href="{{ previousWalk.url | url }}">{{ previousWalk.data.title }}</a></li>{% endif %}
+    {%- if nextWalk %}
+      <li class="next">
+        <span class="label">Next</span>
+        <a class="link-overlay" href="{{ nextWalk.url | url }}">{{ nextWalk.data.title }}</a>
+      </li>
+    {% endif %}
+    {%- if previousWalk %}
+      <li class="previous">
+        <span class="label">Previous</span>
+        <a class="link-overlay" href="{{ previousWalk.url | url }}">{{ previousWalk.data.title }}</a>
+      </li>
+    {% endif %}
   </ul>
 </nav>
 {%- endif %}

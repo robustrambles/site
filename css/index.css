@@ -302,6 +302,37 @@ main img {
   max-width: 100%;
 }
 
+main .walk-sequence ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row-reverse;
+  margin-left: 0;
+}
+
+main .walk-sequence li {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+
+main .walk-sequence a {
+  text-decoration: none;
+  color: inherit;
+}
+
+main .walk-sequence a:hover, main .walk-sequence a:focus {
+  text-decoration: underline;
+}
+
+main .walk-sequence .label {
+  font-size: 0.75em;
+  font-weight: 600;
+}
+
+main .walk-sequence .next {
+  text-align: right;
+}
+
 footer {
   margin: 0 auto;
   text-align: center;
