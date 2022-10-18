@@ -298,6 +298,10 @@ main .series-list .walk a:hover {
   padding-left: 8px;
 }
 
+main img {
+  max-width: 100%;
+}
+
 footer {
   margin: 0 auto;
   text-align: center;

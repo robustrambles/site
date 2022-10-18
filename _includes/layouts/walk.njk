@@ -21,7 +21,7 @@ templateClass: tmpl-walk
 <h5>Walk Instructions</h5>
 {{ content | safe }}
 
-<img src="/img/maps/{{ slug }}.jpg" loading="lazy" />
+<img src="/img/maps/{{walkSeries}}/{{ slug }}.jpg" loading="lazy" />
 
 {%- if collections[walkSeries] %}
 {%- set nextWalk = collections[walkSeries] | getNextCollectionItem(page) %}
