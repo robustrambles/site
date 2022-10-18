@@ -8,6 +8,7 @@ details:
   Start: Five Oak Green village centre; some on road parking.
   Comment: >
     A varied walk with orchards, even a hop garden, and some excellent views. A short section of roadwalking where no linking paths exist, and an excursion into Brenchley village. Thereafter a boggy section into the final approach to Castle Hill. Some stiles.
+portraitMap: false
 ---
 With the village shop on your left, walk on along the road for a short distance looking for a concealed footpath going off left through a tunnelled passageway in a terrace of houses. Keep on down an enclosed path to a stream. Bear left around to a footbridge. Cross and continue along a field edge by a stream on your left.
 

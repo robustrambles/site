@@ -8,6 +8,7 @@ details:
   Start: Edenbridge High Street;public car parks
   Comment: >
     Varied countryside with a modest climb to some pleasant views. Inevitably there are stiles.
+portraitMap: false
 ---
 With ‘King & Queen’ pub on your right, walk up the side road with a brick pavement to the lychgate into Edenbridge Parish Church graveyard.
 

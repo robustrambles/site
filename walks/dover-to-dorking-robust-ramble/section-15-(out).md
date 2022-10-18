@@ -8,6 +8,7 @@ details:
   Start: The Castle Inn at Castle Hill, limited parking; ask in pub if visiting later.
   Comment: >
     A walk of constant novelty, with woods, orchards and open fields contrasted with evidence of the rural economy and the intensive use of this countryside. Many stiles.
+portraitMap: false
 ---
 With the ‘Castle Inn’ behind turn left down Pearson’s Green Road (signposted Collier Street and Marden). Go downhill for some way. Just past a house on the left, look on the left for a wooden gate labelled ‘Castle Wood’ with a stile next to it. Cross into the wood and follow a track uphill.
 

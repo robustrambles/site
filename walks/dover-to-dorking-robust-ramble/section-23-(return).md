@@ -8,6 +8,7 @@ details:
   Start: The Three Horseshoes, Irons Bottom; limited on road parking or ask at pub.
   Comment: >
     An interesting and varied walk skirting former industrial areas and new developments south of Redhill. Also making use of a section of the Greensand Way with woodland and quiet countryside in between. If the Sidlow Bridge section is flooded (very rare) a diversion up the A217 to Dovers Green and back down Lonesome Lane is needed. Away from summer make sure you have plenty of daylight hours.
+portraitMap: false
 ---
 With ‘The Three Horseshoes’ on your right, walk back down the road used on the outward route. Do not turn off it onto any footpath but continue to the far end and a T-junction with the busy A217 main road by a church.
 

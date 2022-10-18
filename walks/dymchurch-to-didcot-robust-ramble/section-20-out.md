@@ -8,6 +8,7 @@ details:
   Start: Village shop and Crown Inn in Horsted Keynes.
   Comment: >
     Shortish section with constantly changing countryside, some steep climbs and the possibility of a steam engine on the Bluebell Railway.
+portraitMap: false
 ---
 With the village shop on the right and the old Crown Inn on the left, walk down the main road, passing the Green Man pub on the right to reach a crossroads by the Post Office. Turn right down through concrete bollards onto a roadway heading towards the church on the hill ahead.
 

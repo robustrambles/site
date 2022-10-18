@@ -8,6 +8,7 @@ details:
   Start: Castle Hill pub, limited parking.
   Comment: >
     This is a long return so leave plenty of time and daylight. The start involves some road walking but thereafter is varied countryside and orchards. The route twists and turns so keep your place on the map, passing by Tanner Farm Caravan Park. Crossing large fields needs a good sense of direction.
+portraitMap: false
 ---
 With the Castle Hill Inn behind, walk back down Yew Tree Green Road for ¾ mile. Pass a road going off right to Horsmonden. Keep on down passing houses and footpaths going off left and right. When houses finish, pass woods on both sides and two ponds on the right.
 

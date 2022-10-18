@@ -8,6 +8,7 @@ details:
   Start: The Punchbowl Inn at Oakwoodhill
   Comment: >
     An excellent walk in charming countryside but allow plenty of time as there are many stiles and constant changes of direction needing time to seek out paths.
+portraitMap: false
 ---
 With the Punchbowl Inn on your right, walk up the road. Soon reach a road junction, go straight on signed Walliswood. In 200 metres look for a footpath off right just after a house called Upper Sent. Go right down a gravel drive into trees. Soon reach a corner and a junction of ways. Ignore the path off right into Chapel Copse. Turn left over to a stile into an enclosed path between trees and a wire fence.
 

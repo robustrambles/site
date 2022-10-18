@@ -8,6 +8,7 @@ details:
   Start: The Wheatsheaf; limited parking, ask in pub
   Comment: >
     A walk through pleasant and secluded country; there are stiles and remember that this is lowlying terrain.
+portraitMap: false
 ---
 From ‘The Wheatsheaf’, cross the road in front (with care as cars hurtle along) to the railway bridge and cross the railway. At the far side go straight on up the road ahead, ignoring the B2027 going off left. Keep on along the road soon uphill for ¼ mile. Look for a footpath going off left.
 

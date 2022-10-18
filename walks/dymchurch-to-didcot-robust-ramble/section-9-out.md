@@ -8,6 +8,7 @@ details:
   Start: The Woodcock Inn car park on the outskirts of Iden Green.
   Comment: >
     An interesting and varied section with hop gardens towards the end. The route is not always easy so allow plenty of time.
+portraitMap: true
 ---
 From the Woodcock Inn car park, cross the road to an enclosed footpath going downhill, the Woodcock Inn is passed on the right. Go down to a gate into an orchard. Keep on up in the same direction with a fence and bushes on the right. Pass an old orchard on the left and eventually drop down to emerge over a stile by a metal fieldgate onto a road.
 

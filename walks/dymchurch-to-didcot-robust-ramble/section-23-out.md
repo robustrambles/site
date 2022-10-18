@@ -8,6 +8,7 @@ details:
   Start: The Red Lion in Handcross
   Comment: >
     This is a challenging section. There are no public footpaths going west from Handcross and equally none from the east into Faygate or Colgate. However there are two large estates adjoining Handcross and Faygate which allow general access to local walkers and this walk makes use of them. This makes for demanding mapreading and careful navigation. Finally the busy A264 dual carriageway has to be crossed on the flat. This is a daunting operation and only to be attempted by those with some agility. Take time and be patient, there is no margin for error. There are some excellent woodland paths, great views and some rewarding walking.
+portraitMap: true
 ---
 With the Red Lion on the right, walk out of the village bearing right at all road junctions. Soon cross a bridge over the A23 and keep on along the pavement. Pass the last house on the right and keep on with a hedge on the right. The pavement comes to an end at a driveway on the right by the entrance to a house called Truckers Hatch. Turn right up the drive to a gate. (The next mile is in Hoadlands Wood which is private land but with permissive paths.).
 

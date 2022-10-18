@@ -8,6 +8,7 @@ details:
   Start: The Bramley Pub by Bramley Station
   Comment: >
     A short but varied section allowing time to explore Roman Silchester.
+portraitMap: false
 ---
 With ‘The Bramley’ pub on your right, walk away from the railway station. Turn up Minchens Lane, the first turning on your right by a triangle of grass. Pass a recreation ground and then a surgery on your left.
 

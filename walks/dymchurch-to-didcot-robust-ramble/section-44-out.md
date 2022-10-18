@@ -8,6 +8,7 @@ details:
   Start: The Sun Inn, Hill Bottom; some on street parking
   Comment: >
     Latest news is that the pub at Gallowstree Common is currently closed, so I&#x2019;m afraid it&#x2019;s take a picnic. There is an attempt to make it a community asset. This is an almost idyllic walk through extensive beech woods, marred only by a stretch of road walking along the appropriately named Deadman&#x2019;s Lane, a hi-viz waistcoat has a noticeable effect on drivers. Take special care with clothing in this area. It is known for tick infestation which can carry Limes Disease. Wear long trousers and tuck them into socks. Check at the end of each day&#x2019;s walking. Carry a tick removal card.
+portraitMap: false
 ---
 With the Sun Inn behind you, turn right and walk back up the road through the village. Where houses on your right end, turn immediately right, up a bridleway called Gashes Lane. This soon narrows to a footpath. Keep uphill into a wood.
 

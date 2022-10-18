@@ -8,6 +8,7 @@ details:
   Start: The Half Moon pub in Balcombe.
   Comment: >
     A short but sometimes tricky walk with much water in evidence. Most of the paths are along the edge of the Ardingly Reservoir, one a feint fisherman&#x2019;s track. Take great care, especially in wet weather.
+portraitMap: false
 ---
 With the Half Moon pub on the left walk back down past the village stores away from the main road, back the way of the outward route. Pass between houses and reach a metal fieldgate and metal kissing gate on the left. Do not go through but keep on down the main gravel track through a metal kissing gate by a gate across the track and on down to the bottom of the hill.
 

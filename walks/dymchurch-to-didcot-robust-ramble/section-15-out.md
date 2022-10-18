@@ -8,6 +8,7 @@ details:
   Start: The old Carpenter&#x2019;s Arms in Mayfield. If starting from the Rose and Crown turn right along Fletching Street towards the village centre. Where The Avenue turns off left is the site of the old Carpenter&#x2019;s Arms.
   Comment: >
     A varied walk in undulating countryside with stiles and sometimes feint paths. Some stretches of walking on country roads.
+portraitMap: false
 ---
 With the old Carpenter’s Arms building on your right, cross the main road to the side road (The Avenue) opposite. Go along this between houses for some way. At a Y-fork bear right up to a car park. Here turn sharp right up a narrow road to emerge onto the main shopping street in Mayfield.
 

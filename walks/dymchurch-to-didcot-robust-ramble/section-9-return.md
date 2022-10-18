@@ -8,6 +8,7 @@ details:
   Start: The New Swan pub at the west end of Sandhurst.
   Comment: >
     A varied walk with undulating landscape and possibly some mud; a section on a quiet country road before the final return to Iden Green. Several stiles, some broken.
+portraitMap: true
 ---
 Leave the New Swan pub and go back up the hill and down to the school entrance on the left near the foot of the hill. Turn left up the school drive and through the main gates. Do not turn off to the right but go straight ahead up the edge of the playground passing the school buildings on the left.
 

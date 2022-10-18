@@ -9,6 +9,7 @@ details:
   Cross: and turn left (there is a narrow path along the top of the verge). Just past the first house on the right, turn right into the entrance to Wakehurst Place. Keep on for some way along this drive, ignoring a path soon going off right. Pass a car park on the left and then the rear of a caf&#xE9; (the Seed Caf&#xE9;).
   Comment: >
     A short but varied walk passing through Wakehurst Place, deer parks and lakes. Some uphill climbs.
+portraitMap: false
 ---
 With the Ardingly Inn behind, walk straight up the short road ahead to meet the main road. Cross and turn left uphill out of the village for ¼ mile. Pass the village shop on the left and keep on up the pavement. Houses end on the left and the showground begins. Eventually turn right down a side road called Cob Lane.
 

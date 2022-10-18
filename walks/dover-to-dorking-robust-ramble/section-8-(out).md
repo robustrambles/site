@@ -8,6 +8,7 @@ details:
   Start: Queen&#x27;s Head, Kingsnorth;ask at pub for parking
   Comment: >
     A more straightforward walk than the previous sections in pleasant countryside.
+portraitMap: false
 ---
 From the front of the Queens Head pub, turn right on the road down the side of the pub, called Pound Lane. This is part of the Greensand Way. After ½ mile, look for a stile and footbridge on the left. Leave the road over these into a field. Head diagonally right across the field to a stile leading to a tarmac entrance drive.
 

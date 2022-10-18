@@ -8,6 +8,7 @@ details:
   Start: Stonegate Railway Station. Paid parking at the station possible.
   Comment: >
     There are only the station services at Stonegate Station. This is a longer walk through varied and wooded countryside. There are many stiles and constant attention to maps and instructions is advisable.
+portraitMap: false
 ---
 From Stonegate Railway Station walk up through the station car park to the road at the top. Turn left on the road with care and cross the railway bridge. Ignore a footpath off on the right and keep on downhill past Birdbrook Farm Shop. At the first house on the right turn off the road and go to the right up the concrete entrance drive to Witherenden Farm. Bear left at the farm buildings, still on the concrete track, and walk down through the farm and on, past old machinery, to enter a field by a pond. Keep on downhill, with hedge and ditch on the left, to leave the field over a concrete bridge at the bottom corner into a further field.
 

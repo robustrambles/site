@@ -8,6 +8,7 @@ details:
   Start: The Hind&#x2019;s Head in Aldermaston
   Comment: >
     This is a short but pleasant walk over grassy fields and river banks then canal towpaths. An unpleasant section of roadwalking is avoided by provision of a permissive path. An action that should be far more common. Aldermaston Wharf has much of interest and is worth spending a little time finding out about its history. Sadly the pub at Ufton has now closed. A little further north up the main road is The Spring Inn, or there are facilities at Aldermaston Wharf.
+portraitMap: false
 ---
 With the front of The Hind’s Head pub on your left, cross over the main road and walk back up the lane opposite. In ¼ mile look for a footpath off left. Go through a gap in the hedge to a metal swing gate and cross straight over the field towards distant trees.
 

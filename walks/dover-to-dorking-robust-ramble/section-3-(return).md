@@ -8,6 +8,7 @@ details:
   Start: The New Inn; ask about using the pub car park if intending to visit otherwise a little on street parking or the village hall with permission
   Comment: >
     Finding the path by the Golf Club House is a little tricky but thereafter no major problems. Mostly undulating, quiet countryside with a few stiff climbs and stiles.
+portraitMap: false
 ---
 With the New Inn on the right, walk forward along the main road to soon reach a left bend by a golf club entrance. Go straight ahead off the road over grass to cross a stile and footbridge in the corner ahead.
 

@@ -8,6 +8,7 @@ details:
   Start: The William Caxton pub by the traffic lights at the Rolvenden end of Tenterden; difficult long term parking in Tenterden
   Comment: >
     A meandering return through varied countryside. Be careful with choices at several junctions of tracks and paths. There are many stiles and a little road walking.
+portraitMap: false
 ---
 From the William Caxton pub, cross the main Tenterden road to the other side by a restaurant. Turn left and walk along the pavement towards Rolvenden and Hastings. In 200 metres cross the road using a centre refuge and turn left down the roadway to West View Care Centre.
 

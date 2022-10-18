@@ -8,6 +8,7 @@ details:
   Start: The Woolpack Inn, by the church in Warehorne
   Comment: >
     A varied walk with undulating country, views and woodland. The Saxon Shore Way sections should be straightforward, but the less used paths need constant attention. There are many stiles, often hidden in hedges and the possibility of a fieldgate to be climbed.
+portraitMap: false
 ---
 With the Woolpack Inn on the right, go on up the road following the Saxon Shore Way. At a righthand bend in the road, turn left up a farm entrance drive. In a few paces reach a metal kissing gate on the right. Go through into a field and straight across to a second kissing gate in the hedge ahead.
 

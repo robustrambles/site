@@ -8,6 +8,7 @@ details:
   Start: The Maypole Inn, High Hurstwood, ask about parking.
   Comment: >
     Very attractive and varied countryside with hills and stiles.
+portraitMap: false
 ---
 With the Maypole Inn on the left, walk downhill on the main road out of the village. At the bottom of the hill, by a crash barrier, turn left off the road down a drive to White Coppice Park. Almost immediately, at the gateway, turn right down a bank and around to a stile into a wildflower meadow.
 

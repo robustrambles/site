@@ -8,6 +8,7 @@ details:
   Start: The Unicorn, Marden village. There is a village car park.
   Comment: >
     Initially an interesting and varied walk, this section becomes a real challenge. At Wanshurst Green a microlite airstrip cuts the path and waymarks are patchy. The last mile or so into Staplehust Station can impassably flooded in wet weather and very muddy anyway. If in doubt join the parallel road to avoid this section as indicated on the map. This is a long linear village as the final stretch illustrates.
+portraitMap: false
 ---
 With The Unicorn pub on your right, keep on along the main road. Soon pass the library and a car park on the left. Look out for a footpath going left down to a recreation ground (there is a green fingerpost). Ignore this path, but at this point turn right and cross the road to an enclosed asphalt path going down the side of a house.
 

@@ -8,6 +8,7 @@ details:
   Start: The &#x2018;White Horse&#x2019; pub. There is a village car park further into the village by shops.
   Comment: >
     There is much new building in Hawkinge and the cemetery is a little tricky to navigate but thereafter the route is in quiet countryside. In the final section there are excellent views. There are stiles.
+portraitMap: false
 ---
 With the White Horse Inn on the left, walk forward into the village, soon passing shops on the left. Cross Aerodrome Road going off left and soon reach a narrow road also going off to the left. There is a bungalow up on a bank (no. 145) and signs indicating ‘no through road’, and, ‘cycle route’. Turn up this lane and keep on to the very top passing building work on the right. At the top emerge onto a road by a new roundabout.
 

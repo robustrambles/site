@@ -8,6 +8,7 @@ details:
   Start: From the village hall by a telephone box at a road junction at the south end of the village
   Comment: >
     A pleasant walk through secluded countryside with farms, hills and views. There are stiles.
+portraitMap: false
 ---
 Starting by the village hall and telephone box, go up the narrow road opposite called Broadsole Lane. This bends away north out of the village away from the main straight road going back in the Dover direction.
 

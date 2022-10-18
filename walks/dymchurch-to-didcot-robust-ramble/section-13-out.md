@@ -8,6 +8,7 @@ details:
   Start: Etchingham church. Some on street parking.
   Comment: >
     There are only the station services at Stonegate Station and charged parking in the station car park. Burwash village with pubs and shops is on the return section for those making the circular section walk. The countryside is pleasant but there are many stiles and many are currently broken. This is still marshy country.
+portraitMap: false
 ---
 Walk past Etchingham parish church towards the level crossing on the railway ahead. Just before the end of the churchyard on the left, turn left through a vehicle entrance into the churchyard and walk up, passing the end of the church on the left, to an iron kissing gate at the top.
 

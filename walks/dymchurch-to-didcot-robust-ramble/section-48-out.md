@@ -8,6 +8,7 @@ details:
   Start: The Chequers pub and restaurant in Aston Tirrold, limited parking at the pub and on road in the village.
   Comment: >
     An excellent walk through pleasant countryside with picturesque villages and historic churches along the way. Do find time to stop and look.
+portraitMap: false
 ---
 From The Chequers inn car park turn left and walk towards the war memorial. Cross the road junction and go forward, passing the war memorial, which should be on your left. Ignore a road off left and bear right up the road to the little church of All Saints at Aston Upthorpe. Pass the church on your left then immediately turn left on a byway between Thorpe Farm on your right and the church on your left.
 

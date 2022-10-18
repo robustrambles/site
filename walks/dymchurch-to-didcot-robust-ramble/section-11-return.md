@@ -8,6 +8,7 @@ details:
   Start: The Seven Stars pub in Robertsbridge High Street. Parking at various locations in the village.
   Comment: >
     This is a walk with plenty of variety with woods, fields, orchards and river views. There are some short stretches of rough walking. Please note that this is the valley of the River Rother and after significant rain some of the fields and paths may be under standing water. Do not take risks and through the Winter months wellington boots are a good idea with walking poles.
+portraitMap: false
 ---
 With the Seven Stars on the left, go on up the main street on a raised brick pavement. On reaching a brick clocktower turn left, over gravel by the side of a bookshop, up an enclosed path by a brick wall. Continue uphill to reach a gateway into a playing field on the right. Here drop down left onto a road. Turn right along the road. At the end of the road keep forward over a footbridge over a main road. At the far side turn right down with the road on the right. At the bottom follow the path as it swings away from the road and passes below a tall bank on the right. At the end the path climbs the bank into a field. Go forward with a hedge on the right. Where this swings away, keep forward down the open field towards a water treatment works.
 

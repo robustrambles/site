@@ -8,6 +8,7 @@ details:
   Start: Red Lion, Shamley Green
   Comment: >
     An excellent walk on quiet country paths through woodland and enclosed sandy paths. Virtually no stiles or road walking although this is hilly country. There are some attractive farmhouses and the special interest of walking part of the old railway line to Cranleigh and the River Wey towpath. Expect mud after significant rain.
+portraitMap: false
 ---
 Leave the Red Lion pub and cross the main road bearing left to the village shop. On reaching the shop turn right along the side road, alongside the village green, away from the main road. At the end of the green a road comes in from the right. Go ahead out of the village on the pavement of the road ahead.
 

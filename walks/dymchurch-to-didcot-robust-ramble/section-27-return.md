@@ -8,6 +8,7 @@ details:
   Start: The Hurtwood Inn in Peaslake.
   Comment: >
     A fairly short and easy walk except for the section up to Pitch Hill which is a steep climb followed by a very steep descent on a feint path. This should not be attempted in wet or misty weather or when visibility is poor. It is not suitable for young children, anyone with restricted mobility or the faint-hearted ! An alternative along the road is provided. For those making the climb the views are tremendous.
+portraitMap: true
 ---
 With the Hurtwood Inn on your right, go up the road away from the village centre. Ignore a footpath off on your right. Soon pass the village hall on your right then St. Mary’s Church on your left. Immediately past the church turn left off the road up a green slope towards gates. Just before the gates turn right, steeply uphill, to reach a barrier and a cross path.
 

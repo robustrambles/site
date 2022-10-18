@@ -8,6 +8,7 @@ details:
   Start: The Chequers Inn, Aston Tirrold; parking on street around village or at the recreation ground, about &#xBC; mile away, towards the end of the return section.
   Comment: >
     A hilly start with good views, then a gradual descent to the River Thames. The last two miles are along the Thames Path as there is no other way. If the path is ever flooded do not go down Ferry Lane but turn right at the crossroads and follow the main road.
+portraitMap: false
 ---
 With The Chequers inn behind and facing the War Memorial, turn left down Baker Street (all other roads go slightly uphill). The church tower is immediately in view. Pass a field on your left and then turn left into a footpath between a hedge and a fence.
 

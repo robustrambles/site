@@ -8,6 +8,7 @@ details:
   Start: The Jekyll &#x26; Hyde pub in Turgis Green.
   Comment: >
     Generally easy field edges but some stretches of road walking. Be prepared for stiles in various states of repair.
+portraitMap: false
 ---
 With the ‘Jekyll & Hyde’ pub on your left, walk down the main road. Go under power lines and pass the entrance to a recreation ground. Immediately look across the road for a gap in the hedge on the right (there is a wooden finger post). Cross with great care and go through the bushes to a footbridge.
 

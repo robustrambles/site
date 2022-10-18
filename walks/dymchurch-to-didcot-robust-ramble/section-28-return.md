@@ -8,6 +8,7 @@ details:
   Start: The Red Lion pub in Shamley Green
   Comment: >
     Not a long walk, but quite rugged going and some off-road vehicle damage. Some good views.
+portraitMap: false
 ---
 With the Red Lion on your left walk up the main road then soon left on a side road along a section of green. At the end join another road and keep on walking away from the village. Keep on as the road curves around. Ignore the first footpath off left by Sandhurst Hill. On a sharp right bend turn left up a concrete drive to Shamley Wood.
 

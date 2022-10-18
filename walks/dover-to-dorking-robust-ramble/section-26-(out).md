@@ -8,6 +8,7 @@ details:
   Start: The Dolphin in Betchworth village centre, limited parking around the village or ask in pub.
   Comment: >
     Betchworth is a splendid village with interesting houses and medieval church. The walk is through gracious countryside with a fair sprinkling of stiles. The final stretch into Dorking is inevitably urbanised, but former country footpaths weave between houses and gardens into the very heart of the town with a long decline from Tower Hill offering panoramic views.
+portraitMap: false
 ---
 With ‘The Dolphin’ pub on your left, climb up the grassy bank on your right to a post box set in the wall. Turn left along an earthen path with the wall on your right and the road down on the left. Follow this narrow path to reach a river bridge. Cross with care (no pedestrian walkway).
 

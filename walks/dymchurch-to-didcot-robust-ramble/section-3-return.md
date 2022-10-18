@@ -8,6 +8,7 @@ details:
   Start: The Woolpack Inn and church in Warehorne
   Comment: >
     A walk of contrasts from marshland to intensive arable. The walking is challenging in a really robust way. These paths are little used and currently not reinstated through crops. The going can be tough and slow and needs constant map reading and direction checking. Pace may be reduced to 1 mph depending on the state of crops, so allow plenty of time.
+portraitMap: false
 ---
 From the Woolpack Inn, cross back to the entrance to the churchyard opposite. Retrace the outward route back down the churchyard, past the tower, to a small gate. Go through and drop down the pasture to a stile at the bottom. Cross this to pass a house and emerge onto a road.
 

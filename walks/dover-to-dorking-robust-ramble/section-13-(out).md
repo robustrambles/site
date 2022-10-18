@@ -8,6 +8,7 @@ details:
   Start: Bell Lane, off the main road, opposite the parish church in Stapelhurst (just a short distance south of the King&#x2019;s Head pub). There is a carpark in Bell Lane and on road is also possible.
   Comment: >
     On the whole a pleasant walk, with a brief stretch of road walking. Always keep a close eye on the map, as waymarks can be few and far between.
+portraitMap: false
 ---
 With the King’s Head behind, turn right uphill to the first twurning right, Bell Lane. Turn right along this past a car park on the right. Keep along to a junction with South Bank road. Turn left down here, passing a green on the left. At the bottom of the hill (where the slope levels, not the end of the road), look for a footpath going right between houses.
 

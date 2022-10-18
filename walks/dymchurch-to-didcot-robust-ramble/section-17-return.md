@@ -8,6 +8,7 @@ details:
   Start: The Nutley Arms, ask about parking here or some on street in the village.
   Comment: >
     Some road walking to start with then trees and steep valleys once again. An alternative is suggested for a busy road section.
+portraitMap: false
 ---
 With the ‘Nutley Arms’ on the left, go down the main road ½ mile (there is a pavement on the far side). Take the first road off on the left and continue along for ½ mile. Pass two side roads on the right and keep on to cross a bridge. Bear right with the road. Pass Beak House on the right and turn immediately right over a stile into a narrow footpath into woods.
 

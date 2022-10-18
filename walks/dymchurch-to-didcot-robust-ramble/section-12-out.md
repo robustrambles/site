@@ -8,6 +8,7 @@ details:
   Start: The Seven Stars pub in Robertsbridge centre. Local parking.
   Comment: >
     A pleasant short walk in low lying land which can be marshy in places. Etchingham has lost its pub but there is a village shop with hot drinks and provisions.
+portraitMap: true
 ---
 With the Seven Stars pub behind, cross the main road and go down the road opposite towards the railway station. Pass a car park on the left, then a village store and finally cross a bridge. In a few paces turn right through double fieldgates by a cricket bat business into a concrete entrance road to a small industrial estate.
 

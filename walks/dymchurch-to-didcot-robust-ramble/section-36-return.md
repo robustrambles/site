@@ -8,6 +8,7 @@ details:
   Start: The Shoulder of Mutton pub in Hazeley.
   Comment: >
     An excellent walk of contrasts and constant new experiences, from woodland paths to heathland, field edges and secret secluded ways only accessible to walkers. Enjoy the excellent West Green House and the impressive Borough Court. Seen on this walk, deer, woodpecker, heron, butterflies and Gloucester Old Spots. There are many stiles.
+portraitMap: true
 ---
 With the Shoulder of Mutton pub on your right walk down the road past the car park and houses down on your right. At a Y-fork go left up to a main road. With care cross to the far side and join a footpath off diagonally right across a footbridge into woods.
 

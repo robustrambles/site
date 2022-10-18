@@ -8,6 +8,7 @@ details:
   Start: The Tenterden Vineyard at Small Hythe.
   Comment: >
     A long and rather complicated return so allow plenty of time especially after wet weather. A good number of stiles to cross. Isolated and atmospheric countryside typical of this area.
+portraitMap: false
 ---
 From the entrance to the Tenterden Vineyard, turn right, down the road, back along the outward route, to pass Small Hythe Place. Keep on the road over the bridge passing the footpaths turning off along the Reading Sewer. Stay on along the road until it turns sharply right.
 

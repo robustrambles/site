@@ -8,6 +8,7 @@ details:
   Start: The former Winning Hand pub, now closed, on the A4 near Ufton lock (if making the circular walk, start back from Ufton Lock)
   Comment: >
     An excellent walk along fields in quiet country. The complex water management at Padworth Mill is interesting. A short diversion north can be made here to refreshment at Aldermaston Wharf if required. Fisherman&#x2019;s Lane is an easy final lap.
+portraitMap: false
 ---
 From The Winning Hand recross the main road and go back down the road opposite to the Kennet & Avon Canal. Cross over and continue on the road for ½ mile. At a Y-fork bear right.
 

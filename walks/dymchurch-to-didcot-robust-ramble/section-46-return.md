@@ -8,6 +8,7 @@ details:
   Start: On the main road up from Goring Station, where the B4009 goes over a bridge over the railway and into Goring village centre and continues to the bridge over the River Thames to Streatley. On road parking in the local area, but needs to be searched out.
   Comment: >
     Most of this return is along the Chiltern Way as no alternative is to be had. This makes the route easy to follow with frequent waymarking. Some excellent views midway.
+portraitMap: false
 ---
 From the crossroads at Goring railway bridge cross the main road and walk away from the railway down the rough side road opposite with houses on your right.
 

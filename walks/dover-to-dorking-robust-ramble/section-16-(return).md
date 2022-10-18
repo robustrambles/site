@@ -8,6 +8,7 @@ details:
   Start: The Chequers Inn by the river bridge and castle in Tonbridge; public carparks.
   Comment: >
     The route out of Tonbridge is through several streets of residential housing then a long an enclosed footpath with a muddy section. There is a difficult main road crossing then 150 metres up a busy side road. It is worth the effort because there is excellent varied countryside for the rest of the walk and two outstanding churches at Tudeley (Chagal windows) and Capel (medieval wall paintings).
+portraitMap: false
 ---
 With the Chequers Inn behind, turn right down the High Street over the river and keep on down the main road. Eventually cross a side road and go on over the railway bridge passing Tonbridge Station entrance. Immediately over the bridge turn left down Priory Road.
 

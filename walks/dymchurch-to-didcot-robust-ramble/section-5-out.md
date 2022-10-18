@@ -8,6 +8,7 @@ details:
   Start: Appledore village centre and the Black Lion pub.
   Comment: >
     The museum at Small Hythe Place is often open and the section ends at Tenterden Vineyard which has a shop, picnic area and restaurant. There is no pub here. This walk crosses the Isle of Oxney and offers splendid views. As usual many paths are not evident on the ground so constantly use the map to keep an accurate sense of direction.
+portraitMap: false
 ---
 With the Black Lion pub and church entrance behind, cross the main road, to go up Court Lodge Road opposite. Keep along, to eventually pass Court Lodge itself on your left. Immediately past the buildings, by an entrance drive on the left, go left, up a stepped stile, into a pasture. This path is on the Saxon Shore Way.
 

@@ -8,6 +8,7 @@ details:
   Start: Headcorn centre, car parks and on road parking can be found.
   Comment: >
     A long stretch on a side road to get out of town, then a testing stretch, not only not easy to find but maybe needing diversions due to flooded ponds. There are blocked paths, broken stiles and railways to cross, but a lot of interesting countryside too.
+portraitMap: false
 ---
 With the George and Dragon pub on the left go back down the main road passing the station entrance on the right. Follow the road for some way eventually bearing right to a Y-fork just before a railway bridge. Turn left here on the Smarden Road (signposted Smarden/Egerton) and walk along for ½ mile with great care (the road is straight and encourages speeding).
 

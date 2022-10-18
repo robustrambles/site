@@ -8,6 +8,7 @@ details:
   Start: Main road in Ruckinge village centre, at Blue Anchor pub building
   Comment: >
     A walk of contrasts from marshland to woodland with moments of wide ranging views. It does, however, explore paths not in regular use and not in evidence over rough terrain. Woodland paths are not well waymarked and can be confused with other paths and tracks. There are many stiles, some in poor condition. A big decision needs to be made about the last section. The A2070 bypass road is very busy with very fast traffic. Rush hours, Sundays and Bank Holidays may generate extra traffic. If in doubt take the alternative suggested route.
+portraitMap: false
 ---
 With the Blue Anchor pub on your left, go ahead downhill a short way. Where a side road goes off left turn right up a wide driveway. At the top cross a stile into a field and go up under power lines to a broken stile at the top. Cross into the next pasture and continue up in the same direction.
 

@@ -8,6 +8,7 @@ details:
   Start: From the Drum Inn, ask about using pub car park or on road parking possible
   Comment: >
     A mixed walk with stiles and some steep climbs but excellent views. There are short sections of road walking when extreme care should be taken.
+portraitMap: false
 ---
 With ‘The Drum’ on the left, walk straight up the old road soon reaching a junction with the new road. Keep ahead with care (best to cross to the verge the other side), ignoring a footpath off on the left. Soon pass a bungalow on the right and an electricity substation. Look for a second footpath on the left. Turn off onto this footpath.
 

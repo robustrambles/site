@@ -8,6 +8,7 @@ details:
   Start: Stonegate Station (Paid parking if any available).
   Comment: >
     There are only the station services at Stonegate Station and charged parking in the station car park. Burwash village with pubs and shops is on this section. A longer walk than the outward section. Pleasant countryside but attention to maps and instructions is needed. Many stiles. Final mile into   Etchingham is mostly on a country road.
+portraitMap: false
 ---
 From Stonegate Railway Station walk up through the car park to a road. Turn left on the road, taking great care, for nearly half a mile (there are some walkable verges). Eventually cross Witherenden bridge and the River Rother. Look for a metal fieldgate into the field on the left. Go through and bear diagonally right across to another fieldgate in the hedge. Go through into a rising field and bear diagonally left up to an old stile by a metal fieldgate.
 

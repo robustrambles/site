@@ -8,6 +8,7 @@ details:
   Start: The Woolpack; some onstreet parking in the village but ask at the pub if intending to take refreshment at the end of the circular walk.
   Comment: >
     Tough walking in this section with paths obscure and overgrown. Smeeth church is well worth a visit. The other side of the A20 the path is difficult to find; having crossed the railway a network of paths is much harder to follow than appears on the map. Finally make an interesting approach to The Forstal through a former mill building.
+portraitMap: false
 ---
 With ‘The Woolpack Inn’ on the left, go forward along the road soon passing a school. Just after a road junction on the right, look for a footpath on the left. Pass through a metal swing gate into an enclosed path. Cross two stiles to a field. Keep on, uphill, to a stile by a wood.
 

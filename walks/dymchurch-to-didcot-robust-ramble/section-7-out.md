@@ -8,6 +8,7 @@ details:
   Start: The William Caxton pub by traffic lights on the main road at the west end of Tenterden
   Comment: >
     Some robust field walking with many stretches and changes of direction needing careful attention to instructions and map. There are many stiles.
+portraitMap: false
 ---
 With the William Caxton pub behind, cross using the traffic lights, to the other side of the main road by a restaurant. Turn left on the pavement out of the town towards Rolvenden and Hastings.
 

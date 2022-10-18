@@ -8,6 +8,7 @@ details:
   Start: The New Swan pub in Sandhurst. On street parking to be found around the village.
   Comment: >
     Varied walking through woodland and fields. Currently many stiles in poor condition. This is a busy walk with many instructions and small changes of direction and terrain. Allow plenty of time.
+portraitMap: true
 ---
 With The New Swan pub on the left, walk down the main road out of Sandhurst for ¼ mile. Where the pavement ends, cross to the other side. Keep on until the houses finish on both sides. Just before a farm shop on the left, turn left with care, over the road, and cross the verge to a footbridge and stile into a sharply rising field.
 

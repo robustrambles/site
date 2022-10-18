@@ -8,6 +8,7 @@ details:
   Start: The Seven Stars, Dawes Green, limited on road parking or ask at the pub.
   Comment: >
     A pleasant, easygoing walk in quiet countryside. A short section of roadwalking that needs care, and once again a selection of stiles.
+portraitMap: false
 ---
 With ‘The Seven Stars’ pub on your right, go forward along the main road a short way to reach a roughly surface car parking area on the left. At the far end find a footpath going off by a metal gate.
 

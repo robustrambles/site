@@ -8,6 +8,7 @@ details:
   Start: The Cyder Inn, Shackleford
   Comment: >
     A straightforward section through the award winning village then mostly on bridleways which although muddy in places are easy to follow. There are many detached houses passed on the route with a great deal of character from timber framed, to Georgian, Victorian gothic and modern &#x2018;grand designs&#x2019;.
+portraitMap: false
 ---
 With The Cyder Inn on your right. Walk up the road towards the village. Pass a footpath and car park on your right and at the road junction, keep straight on passing the village shop on your right. Continue to the first side road off left.
 

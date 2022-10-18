@@ -8,6 +8,7 @@ details:
   Start: The Station Pub near South Nutfield railway station
   Comment: >
     An initial stretch of road walking but a pleasant country road, then a long return through mainly farmland. There is a lot of water evident on the map so be prepared for occasional wet and soggy fields in all but the driest weather. Many stiles; as ever keep a close eye on the map.
+portraitMap: false
 ---
 From the main road with the railway bridge behind and the Station Pub over on your right, go on, down the main road, for some way to a T-junction. Here turn left then immediately right, down Crab Hill Lane.
 

@@ -8,6 +8,7 @@ details:
   Start: King&#x27;s Head, Shadoxhurst; on road parking possible
   Comment: >
     A robust walk on little used footpaths with many stiles and possibly gates to climb. A short stretch of road walking needing special care.Some excellent, quiet countryside, but keep an eye on the map and don&#x2019;t guess at paths, especially in woodland.
+portraitMap: false
 ---
 From the King’s Head car park, turn left along the road, passing the front of the pub. Keep left at road junctions passing houses on your left. On the right, just before a Methodist chapel, look for a stile and footpath sign going off on the right. Cross the stile and go over a field to a further stile.
 

@@ -8,6 +8,7 @@ details:
   Start: From The Castle Inn in Bodiam. Parking is available here but there may be a charge.
   Comment: >
     Not a long walk but not always easy to follow. Feint paths and marshy patches need time and care.
+portraitMap: true
 ---
 From the Castle Inn, cross the road to go up the entrance to Bodiam Castle. Pass the shop on the right and go ahead, across the car park, to a wooden kissing gate at the far side. Go through and bear left, away from the river, up onto a gravel vehicle drive on an embankment.
 

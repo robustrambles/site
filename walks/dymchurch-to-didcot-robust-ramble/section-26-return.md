@@ -8,6 +8,7 @@ details:
   Start: The Bull&#x2019;s Head pub in Ewhurst.
   Comment: >
     A long return section so allow plenty of time. There are many stiles and a very dangerous path exit onto a road. There are sections with very poor waymarking.
+portraitMap: false
 ---
 With the Bulls Head pub behind, cross the road to the green and go on down Wykehurst Lane between houses. Just before a 20mph and private road sign, turn left up a tarmac drive to West View. Go through a gateway. At the end of the tarmac join a narrow path enclosed between a fence and hedge. Pass a barn, then cross a stile and continue down a paddock.
 

@@ -8,6 +8,7 @@ details:
   Start: The Dolphin in Betchworth village centre, limited parking around the village or ask in pub .
   Comment: >
     Another splendid walk through tranquil wooded Surrey countryside. Crosses historic Betchworth Bridge. This is sheep and cattle country so be prepared for many stiles.
+portraitMap: false
 ---
 With ‘The Dolphin’ on your left, go on down the road (there is a parallel path up by the wall on your right). Follow this down to a sharp left turn over Betchworth Bridge. Cross with care as it is very narrow. Immediately over the bridge turn right off the road through a metal kissing gate and walk away from the road on a clear path along the field edge to a wood.
 

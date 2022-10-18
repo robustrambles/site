@@ -8,6 +8,7 @@ details:
   Start: The Manor Inn, Broad Water
   Comment: >
     A walk of much variety including the River Wey towpath and colourful canal boats, winding woodland walks and some interesting churches.
+portraitMap: false
 ---
 From the car park of the Manor Inn turn left along the main road towards Godalming. In 50 metres look out for the entrance to Bunker’s Hill Farm on your left. Turn down here and soon reach the River Wey. Turn right down onto the towpath and follow it for some way to reach a road bridge at Farncombe Boat House.
 

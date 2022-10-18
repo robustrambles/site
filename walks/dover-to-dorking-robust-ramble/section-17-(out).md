@@ -8,6 +8,7 @@ details:
   Start: "&#x2018;The Chequers&#x2019; inn by Tonbridge castle. There are several car parks behind the shops on both sides of the High Street and also in Haysden Country Park"
   Comment: >
     Generally easy walking following sections of the Weald Way and the Eden Valley Way. This is very low-lying land and may be muddy or suffer from flooding in very wet weather. Tonbridge castle is impressive as is Leigh church and surrounding houses. There may be stock in some fields.
+portraitMap: false
 ---
 From the Chequers Inn, walk back, down towards the river bridge. Do not cross but turn right just before to follow a path alongside the river with the castle walls looming high on your right. The path curves to the right, round the castle mound, to a wooden footbridge crossing a stream on the left.
 

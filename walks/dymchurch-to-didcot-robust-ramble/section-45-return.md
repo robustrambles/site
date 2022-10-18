@@ -8,6 +8,7 @@ details:
   Start: The Red Lion in Woodcote; parking opportunities nearby
   Comment: >
     a splendid walk mostly in woodland.
+portraitMap: false
 ---
 With The Red Lion pub on your left, walk up the main road, with a playing field on your right. Soon reach a crossroads and keep on straight across. Take care as there is now no pavement. In a short distance turn right up Tidmore Lane.
 
