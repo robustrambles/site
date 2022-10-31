@@ -14,19 +14,31 @@ eleventyExcludeFromCollections: true
     "name": "{{ metadata.author.name }}",
     "url": "{{ metadata.author.url }}"
   },
-  "items": [
-    {%- for walk in collections.walks | reverse %}
-    {%- set absoluteWalkUrl %}{{ walk.url | url | absoluteUrl(metadata.url) }}{% endset -%}
+  "walks": [
+    {%- for series in collections.seriesList %}
+    {%- set absoluteSeriesUrl %}{{ series.url | url | absoluteUrl(metadata.url) }}{% endset -%}
     {
-      "id": "{{ absoluteWalkUrl }}",
-      "url": "{{ absoluteWalkUrl }}",
-      "title": "{{ walk.data.title }}",
-      "content_html": {% if walk.templateContent %}{{ walk.templateContent | htmlToAbsoluteUrls(absoluteWalkUrl) | dump | safe }}{% else %}""{% endif %},
-      "date_published": "{{ walk.date | rssDate }}"
+      "id": "{{ absoluteSeriesUrl }}",
+      "url": "{{ absoluteSeriesUrl }}",
+      "title": "{{ series.data.seriesTitle }}",
+      "slug": "{{ series.data.slug }}"
+      "walks": [
+        {%- for walk in collections[series.data.slug] %}
+        {%- set absoluteWalkUrl %}{{ walk.url | url | absoluteUrl(metadata.url) }}{% endset -%}
+        {
+          "id": "{{ absoluteWalkUrl }}",
+          "url": "{{ absoluteWalkUrl }}",
+          "title": "{{ walk.data.title }}",
+        }
+        {%- if not loop.last -%}
+        ,
+        {%- endif -%}
+        {%- endfor %}
+      ]
     }
     {%- if not loop.last -%}
     ,
     {%- endif -%}
     {%- endfor %}
-  ]
+  ],
 }
