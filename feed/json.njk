@@ -21,7 +21,7 @@ eleventyExcludeFromCollections: true
       "id": "{{ absoluteSeriesUrl }}",
       "url": "{{ absoluteSeriesUrl }}",
       "title": "{{ series.data.seriesTitle }}",
-      "slug": "{{ series.data.slug }}"
+      "slug": "{{ series.data.slug }}",
       "walks": [
         {%- for walk in collections[series.data.slug] %}
         {%- set absoluteWalkUrl %}{{ walk.url | url | absoluteUrl(metadata.url) }}{% endset -%}
