@@ -28,7 +28,7 @@ eleventyExcludeFromCollections: true
         {
           "id": "{{ absoluteWalkUrl }}",
           "url": "{{ absoluteWalkUrl }}",
-          "title": "{{ walk.data.title }}",
+          "title": "{{ walk.data.title }}"
         }
         {%- if not loop.last -%}
         ,
@@ -40,5 +40,5 @@ eleventyExcludeFromCollections: true
     ,
     {%- endif -%}
     {%- endfor %}
-  ],
+  ]
 }
