@@ -298,6 +298,10 @@ main .series-list .walk a:hover {
   padding-left: 8px;
 }
 
+.walk-details td p:first-child {
+  margin-top: 0;
+}
+
 main img {
   max-width: 100%;
 }
