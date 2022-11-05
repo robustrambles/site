@@ -3,9 +3,9 @@ slug: section-3-(out)
 title: Section 3 (Out)
 subtitle: Hawkinge To Etchinghill
 details:
-  Map: OS Explorer 138 (Dover, Folkestone &#x26; Hythe)
+  Map: OS Explorer 138 (Dover, Folkestone & Hythe)
   Distance/Time: 5 Miles (2.5 Hours)
-  Start: The &#x2018;White Horse&#x2019; pub. There is a village car park further into the village by shops.
+  Start: The ‘White Horse’ pub. There is a village car park further into the village by shops.
   Comment: >
     There is much new building in Hawkinge and the cemetery is a little tricky to navigate but thereafter the route is in quiet countryside. In the final section there are excellent views. There are stiles.
 portraitMap: false

@@ -3,7 +3,7 @@ slug: section-19-(return)
 title: Section 19 (Return)
 subtitle: Edenbridge to Bough Beech
 details:
-  Map: OS Explorer 147 (Sevenoaks &#x26; Tonbridge)
+  Map: OS Explorer 147 (Sevenoaks & Tonbridge)
   Distance/Time: 4.5 Miles/2.5 Hours
   Start: Edenbridge High Street;public car parks
   Comment: >

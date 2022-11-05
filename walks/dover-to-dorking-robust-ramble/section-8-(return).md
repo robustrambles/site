@@ -5,7 +5,7 @@ subtitle: Shadoxhurst to Kingsnorth
 details:
   Map: OS Explorer 137 (Ashford)
   Distance/Time: 5 Miles/ 3 Hours
-  Start: The King&#x2019;s Head, Shadoxhurst
+  Start: The King's Head, Shadoxhurst
   Comment: >
     Once more some difficult moments with little trace of paths, few waymarks and a missing footbridge. Chilmington Green is unfortunately the site of another huge expansion of Ashford, but the Greensand Way should be protected back to Kingsnorth.
 portraitMap: false

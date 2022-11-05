@@ -5,7 +5,7 @@ subtitle: Staplehurst to Marden
 details:
   Map: OS Explorer 136 (The Weald)
   Distance/Time: 4 Miles/2.5 Hours
-  Start: Bell Lane, off the main road, opposite the parish church in Stapelhurst (just a short distance south of the King&#x2019;s Head pub). There is a carpark in Bell Lane and on road is also possible.
+  Start: Bell Lane, off the main road, opposite the parish church in Stapelhurst (just a short distance south of the King's Head pub). There is a carpark in Bell Lane and on road is also possible.
   Comment: >
     On the whole a pleasant walk, with a brief stretch of road walking. Always keep a close eye on the map, as waymarks can be few and far between.
 portraitMap: false

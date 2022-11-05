@@ -7,7 +7,7 @@ details:
   Distance/Time: 5.5 miles/ 3 hours
   Start: Newchurch Village Hall
   Comment: >
-    A walk of contrasts from marshland to hilly woodland, but also demanding moments with poor stiles and paths not reinstated through growing crops. At the time of walking there were paths that were not evident on the ground. Three options are given to make the walk possible. Hopefully the situation will have improved. Enjoy the charming St. Rumwold&#x2019;s Church, the Royal Military Canal, plus excellent views of the marsh and the Cosway Monument.
+    A walk of contrasts from marshland to hilly woodland, but also demanding moments with poor stiles and paths not reinstated through growing crops. At the time of walking there were paths that were not evident on the ground. Three options are given to make the walk possible. Hopefully the situation will have improved. Enjoy the charming St. Rumwold's Church, the Royal Military Canal, plus excellent views of the marsh and the Cosway Monument.
 portraitMap: false
 ---
 From Newchurch Village Hall Car Park turn right on the road. Walk along past a turning on the right then past a turning off left. Keep forward over a brick bridge and immediately turn right off the road over a footbridge and drop down into a field. Go ahead along the field edge with a drainage ditch down on the right.

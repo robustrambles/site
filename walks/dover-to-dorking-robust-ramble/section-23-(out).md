@@ -3,7 +3,7 @@ slug: section-23-(out)
 title: Section 23 (Out)
 subtitle: South Nutfield to Irons Bottom
 details:
-  Map: OS Explorer 146 (Dorking, Box Hill &#x26; Reigate)
+  Map: OS Explorer 146 (Dorking, Box Hill & Reigate)
   Distance/Time: 5.5 Miles/3 Hours
   Start: By the Station Pub(formerly Hotel) alongside main road and just south of railway station.
   Comment: >

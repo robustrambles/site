@@ -3,7 +3,7 @@ slug: section-48-out
 title: Section 48 Out
 subtitle: Aston Tirrold to Didcot
 details:
-  Map: OS Explorer 170 Abingdon &#x26; Wantage
+  Map: OS Explorer 170 Abingdon & Wantage
   Distance/Time: 5 miles/2.5 hours
   Start: The Chequers pub and restaurant in Aston Tirrold, limited parking at the pub and on road in the village.
   Comment: >

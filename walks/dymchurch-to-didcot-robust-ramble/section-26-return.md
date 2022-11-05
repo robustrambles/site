@@ -3,9 +3,9 @@ slug: section-26-return
 title: Section 26 Return
 subtitle: Ewhurst to Oakwoodhill
 details:
-  Map: OS Explorer 134 Crawley/OS Explorer 145 Guildford &#x26; Farnham
+  Map: OS Explorer 134 Crawley/OS Explorer 145 Guildford & Farnham
   Distance: 7 miles/3.5 hours
-  Start: The Bull&#x2019;s Head pub in Ewhurst.
+  Start: The Bull's Head pub in Ewhurst.
   Comment: >
     A long return section so allow plenty of time. There are many stiles and a very dangerous path exit onto a road. There are sections with very poor waymarking.
 portraitMap: false

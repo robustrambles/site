@@ -4,7 +4,7 @@ title: Section 11 Out
 subtitle: Bodiam to Robertsbridge
 details:
   Map: OS Explorer 136 The Weald
-  Distance: 5 miles/2 &#xBD; hours
+  Distance: 5 miles/2 ½ hours
   Start: The Castle Inn by Bodiam Bridge. Car Parks for the castle visitors available but possible charge.
   Comment: >
     A pleasant walk through fields and woods. Some stiles and a little road walking. The crossing of the A21 to reach Robertsbridge needs care and patience.

@@ -3,9 +3,9 @@ slug: section-18-(out)
 title: Section 18 (Out)
 subtitle: Leigh to Bough Beech
 details:
-  Map: OS Explorer 147 (Sevenoaks &#x26; Tonbridge)
+  Map: OS Explorer 147 (Sevenoaks & Tonbridge)
   Distance/Time: 5.5 Miles/3 Hours
-  Start: From the &#x2018;Fleur-de-lis&#x2019; pub at the west end of Leigh. The rail station is a short distance down the hill. Parking is usually to be found on the side roads around the village green.
+  Start: From the ‘Fleur-de-lis’ pub at the west end of Leigh. The rail station is a short distance down the hill. Parking is usually to be found on the side roads around the village green.
   Comment: >
     An excellent walk in tranquil countryside with a mixture of woodland, pasture land and arable, sadly all the hop gardens have gone. There are many stiles.
 portraitMap: false

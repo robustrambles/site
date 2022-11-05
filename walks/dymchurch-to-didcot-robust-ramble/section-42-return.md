@@ -4,7 +4,7 @@ title: Section 42 Return
 subtitle: Tidmarsh to Ufton
 details:
   Map: OS Explorer 159 Reading
-  Distance/Time: 6 &#xBD; miles/ 4 hours
+  Distance/Time: 6 ½ miles/ 4 hours
   Start: The Greyhound pub at Tidmarsh; the pub car park seems the only parking in the village.
   Comment: >
     This is an easy to follow section with a pleasant start, a long section down Nunhide Lane with good views if a little hard on the feet, some safe roadwalking through Theale and an excellent section of canal walking with narrow boats, locks, swing bridges and water meadows to enjoy.

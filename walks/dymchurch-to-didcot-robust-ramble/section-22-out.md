@@ -3,7 +3,7 @@ slug: section-22-out
 title: Section 22 Out
 subtitle: Balcombe to Handcross
 details:
-  Map: OS Explorer 135 Ashdown Forest/ OS Explorer 134 Crawley &#x26; Horsham
+  Map: OS Explorer 135 Ashdown Forest/ OS Explorer 134 Crawley & Horsham
   Distance: 4 miles/ 2 hours
   Start: The Half Moon Inn in Balcombe village.
   Comment: >

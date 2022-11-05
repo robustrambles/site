@@ -5,7 +5,7 @@ subtitle: Chelwood Common (Danehill) to Nutley
 details:
   Map: OS Explorer 135 Ashdown Forest
   Distance: 5 miles/ 3 hours
-  Start: The Coach &#x26; Horses pub at Chelwood Gate. Ask about parking.
+  Start: The Coach & Horses pub at Chelwood Gate. Ask about parking.
   Comment: >
     Lots of wood including Sheffield Forest. Much open access land so be careful of permissive paths not on the OS map.
 portraitMap: false

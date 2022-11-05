@@ -3,7 +3,7 @@ slug: section-29-return
 title: Section 29 Return
 subtitle: Farncombe (Broad Water) to Shamley Green
 details:
-  Map: OS Explorer 145 Guildford &#x26; Farnham
+  Map: OS Explorer 145 Guildford & Farnham
   Distance/time: 5 miles/ 3 hours
   Start: The Manor Inn, Broadwater
   Comment: >

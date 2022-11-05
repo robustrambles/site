@@ -7,7 +7,7 @@ details:
   Distance/Time: 3.5 Miles/2 Hours
   Start: The Queens Head, Kingsnorth
   Comment: >
-    This return route is caught up in the housing expansion of Ashford, especially at Cheeseman&#x2019;s Green. Hopefully the rights of way will be protected but they may not be waymarked and may be a mixture of roads, alleys and little greens. Keep a close eye on the map and check the compass direction.
+    This return route is caught up in the housing expansion of Ashford, especially at Cheeseman's Green. Hopefully the rights of way will be protected but they may not be waymarked and may be a mixture of roads, alleys and little greens. Keep a close eye on the map and check the compass direction.
 portraitMap: false
 ---
 With the Queens Head behind, cross the main road to the road opposite. Walk away from the pub, uphill for some way. Pass a car park on the left at the top of the hill and a footpath going into it. Soon reach the parish church. Turn left into the churchyard and follow the path to the right of the church, to a stile in the hedge at the bottom of the churchyard. Cross the stile into a paddock and keep on down, past cottages, to another stile.

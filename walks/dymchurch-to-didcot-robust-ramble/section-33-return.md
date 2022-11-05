@@ -3,7 +3,7 @@ slug: section-33-return
 title: Section 33 Return
 subtitle: Crondall to Farnham
 details:
-  Map: OS Explorer 145 Guildford &#x26; Farnham; 144 Basingstoke
+  Map: OS Explorer 145 Guildford & Farnham; 144 Basingstoke
   Distance/time: 4 miles/ 2 hours
   Start: The Plume of Feathers, Crondall
   Comment: >

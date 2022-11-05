@@ -4,7 +4,7 @@ title: Section 20 Return
 subtitle: Ardingly to Horsted Keynes
 details:
   Map: OS Explorer 135 Ashdown Forest
-  Distance: 4 &#xBD; miles/ 2 &#xBD; hours
+  Distance: 4 ½ miles/ 2 ½ hours
   Start: The Ardingly Inn in the village. Parking there by arrangement or on street.
   Comment: >
     Typical constantly varying walking environment of trees, fields, ponds and streams. There are stiles and occasional muddy patches.

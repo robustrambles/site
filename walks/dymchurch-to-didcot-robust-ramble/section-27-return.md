@@ -3,7 +3,7 @@ slug: section-27-return
 title: Section 27 Return
 subtitle: Peaslake to Ewhurst
 details:
-  Map: OS Explorer 145 Guildford &#x26; Farnham/ 146 Dorking &#x26; Reigate
+  Map: OS Explorer 145 Guildford & Farnham/ 146 Dorking & Reigate
   Distance/time: 4 miles/ 2 hours
   Start: The Hurtwood Inn in Peaslake.
   Comment: >

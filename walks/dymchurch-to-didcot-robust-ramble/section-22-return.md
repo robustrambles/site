@@ -3,7 +3,7 @@ slug: section-22-return
 title: Section 22 Return
 subtitle: Handcross to Balcombe
 details:
-  Map: OS Explorer 135 Ashdown Forest/ OS Explorer 134 Crawley &#x26; Horsham
+  Map: OS Explorer 135 Ashdown Forest/ OS Explorer 134 Crawley & Horsham
   Distance: 5 miles/ 3 hours
   Start: The Red Lion pub in Handcross.
   Comment: >

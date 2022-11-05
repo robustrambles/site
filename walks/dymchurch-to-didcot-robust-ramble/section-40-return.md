@@ -5,7 +5,7 @@ subtitle: Aldermaston to Silchester
 details:
   Map: OS Explorer 159 Reading
   Distance/Time: 6 miles/ 3 hours
-  Start: The Hind&#x2019;s Head pub in Aldermaston
+  Start: The Hind's Head pub in Aldermaston
   Comment: >
     A walk starting through quiet country on little used paths then winding through the rural/urban development around the large government research establishment south of Aldermaston. Most of the walking is off road and a pleasant mile across Pamber Heath rounds off an interesting excursion.
 portraitMap: false

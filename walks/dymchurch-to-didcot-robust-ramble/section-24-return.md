@@ -3,11 +3,11 @@ slug: section-24-return
 title: Section 24 Return
 subtitle: The old Royal Oak pub (Friday Street near Rusper) to Faygate
 details:
-  Map: OS Explorer 134 Crawley &#x26; Horsham
+  Map: OS Explorer 134 Crawley & Horsham
   Distance: 4 miles/ 2 hours
   Start: From Friday Street and the site of the closed Royal Oak pub.
   Comment: >
-    This is an easy walk back to Faygate with some road walking on country roads. Before reaching Faygate the Frog &#x26; Nightgown on Wimland Road is passed, which may, according to the time, add consolation for the loss of the Royal Oak.
+    This is an easy walk back to Faygate with some road walking on country roads. Before reaching Faygate the Frog & Nightgown on Wimland Road is passed, which may, according to the time, add consolation for the loss of the Royal Oak.
 portraitMap: false
 ---
 From the old Royal Oak building, go back down the road by the car park and turn left on the path through the garden used on the outward route. Go down and up the far side to enter an enclosed path and go on to a gate into a wood. Cross to a gate at the far side and emerge into a field. Go forward a short distance to meet power lines.

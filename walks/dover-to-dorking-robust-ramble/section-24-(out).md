@@ -3,7 +3,7 @@ slug: section-24-(out)
 title: Section 24 (Out)
 subtitle: Irons Bottom to Dawes Green
 details:
-  Map: OS Explorer 146 (Dorking, Box Hill &#x26; Reigate)
+  Map: OS Explorer 146 (Dorking, Box Hill & Reigate)
   Distance/Time: 3 Miles/2 Hours
   Start: The Three Horseshoes, Irons Bottom, limited on road parking or ask at pub.
   Comment: >

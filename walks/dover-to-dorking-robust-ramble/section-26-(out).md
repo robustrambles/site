@@ -3,7 +3,7 @@ slug: section-26-(out)
 title: Section 26 (Out)
 subtitle: Betchworth to Dorking
 details:
-  Map: OS Explorer 146 (Dorking, Box Hill &#x26; Reigate)
+  Map: OS Explorer 146 (Dorking, Box Hill & Reigate)
   Distance/Time: 5 Miles/3 Hours
   Start: The Dolphin in Betchworth village centre, limited parking around the village or ask in pub.
   Comment: >

@@ -4,7 +4,7 @@ title: Section 11 Return
 subtitle: Robertsbridge to Bodiam
 details:
   Map: OS Explorer 136 The Weald
-  Distance: 5 miles/2 &#xBD; hours
+  Distance: 5 miles/2 ½ hours
   Start: The Seven Stars pub in Robertsbridge High Street. Parking at various locations in the village.
   Comment: >
     This is a walk with plenty of variety with woods, fields, orchards and river views. There are some short stretches of rough walking. Please note that this is the valley of the River Rother and after significant rain some of the fields and paths may be under standing water. Do not take risks and through the Winter months wellington boots are a good idea with walking poles.

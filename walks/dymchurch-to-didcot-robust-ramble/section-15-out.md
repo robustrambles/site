@@ -4,8 +4,8 @@ title: Section 15 Out
 subtitle: Mayfield to Five Ashes
 details:
   Map: OS Explorer 135 Ashdown Forest
-  Distance: 5 miles/ 2 &#xBD; hours
-  Start: The old Carpenter&#x2019;s Arms in Mayfield. If starting from the Rose and Crown turn right along Fletching Street towards the village centre. Where The Avenue turns off left is the site of the old Carpenter&#x2019;s Arms.
+  Distance: 5 miles/ 2 ½ hours
+  Start: The old Carpenter's Arms in Mayfield. If starting from the Rose and Crown turn right along Fletching Street towards the village centre. Where The Avenue turns off left is the site of the old Carpenter's Arms.
   Comment: >
     A varied walk in undulating countryside with stiles and sometimes feint paths. Some stretches of walking on country roads.
 portraitMap: false

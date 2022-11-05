@@ -5,7 +5,7 @@ subtitle: Kingsnorth to Shadoxhurst
 details:
   Map: OS Explorer 137 (Ashford)
   Distance/Time: 3.5 Miles/ 2 Hours
-  Start: Queen&#x27;s Head, Kingsnorth;ask at pub for parking
+  Start: Queen's Head, Kingsnorth;ask at pub for parking
   Comment: >
     A more straightforward walk than the previous sections in pleasant countryside.
 portraitMap: false

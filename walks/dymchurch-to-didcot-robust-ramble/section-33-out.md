@@ -3,9 +3,9 @@ slug: section-33-out
 title: Section 33 Out
 subtitle: Farnham to Crondall
 details:
-  Map: OS Explorer 145 Guildford &#x26; Farnham; 144 Basingstoke
+  Map: OS Explorer 145 Guildford & Farnham; 144 Basingstoke
   Distance/time: 4 miles/2 hours
-  Start: The Queen&#x2019;s Head, Farnham
+  Start: The Queen's Head, Farnham
   Comment: >
     A pleasant walk in undulating countryside. Sections are muddy after wet weather. Crondall is an attractive village with a church worth a visit.
 portraitMap: false

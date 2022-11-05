@@ -5,7 +5,7 @@ subtitle: Turgis Green to Bramley
 details:
   Map: OS Explorer 159 Reading
   Distance/Time: 6 miles/ 3 hours
-  Start: The Jekyll &#x26; Hyde pub in Turgis Green.
+  Start: The Jekyll & Hyde pub in Turgis Green.
   Comment: >
     Generally easy field edges but some stretches of road walking. Be prepared for stiles in various states of repair.
 portraitMap: false

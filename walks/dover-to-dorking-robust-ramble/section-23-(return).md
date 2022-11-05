@@ -3,7 +3,7 @@ slug: section-23-(return)
 title: Section 23 (Return)
 subtitle: Irons Bottom to South Nutfield
 details:
-  Map: Os Explorer 146 (Dorking, Box Hill &#x26; Reigate)
+  Map: Os Explorer 146 (Dorking, Box Hill & Reigate)
   Distance/Time: 6 Miles/ 3Hours
   Start: The Three Horseshoes, Irons Bottom; limited on road parking or ask at pub.
   Comment: >

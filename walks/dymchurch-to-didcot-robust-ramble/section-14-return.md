@@ -4,8 +4,8 @@ title: Section 14 Return
 subtitle: Mayfield to Stonegate Station
 details:
   Map: OS Explorer 136 The Weald
-  Distance: 5 miles/ 2 &#xBD; hours
-  Start: The Carpenters Arms in Mayfield may be closed so start from the nearby Rose &#x26; Crown. Turn right along Fletching Street to the first turning left called The Avenue. This is the site of the Carpenters Arms with the footpath opposite.
+  Distance: 5 miles/ 2 ½ hours
+  Start: The Carpenters Arms in Mayfield may be closed so start from the nearby Rose & Crown. Turn right along Fletching Street to the first turning left called The Avenue. This is the site of the Carpenters Arms with the footpath opposite.
   Comment: >
     A pleasant walk through fields and woods with stiles and possible growing crops. Hilly country means some good views.
 portraitMap: false

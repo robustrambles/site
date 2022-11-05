@@ -3,7 +3,7 @@ slug: section-2-(out)
 title: Section 2 (Out)
 subtitle: West Hougham to Hawkinge
 details:
-  Map: OS Explorer 138 (Dover, Folkestone &#x26; Hythe)
+  Map: OS Explorer 138 (Dover, Folkestone & Hythe)
   Distance/Time: 4.5 miles (2.5 hours)
   Start: From the village hall by a telephone box at a road junction at the south end of the village
   Comment: >

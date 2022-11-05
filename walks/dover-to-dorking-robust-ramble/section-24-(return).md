@@ -3,7 +3,7 @@ slug: section-24-(return)
 title: Section 24 (Return)
 subtitle: Dawes Green to Irons Bottom
 details:
-  Map: OS Explorer 146 (Dorking, Box Hill &#x26; Reigate)
+  Map: OS Explorer 146 (Dorking, Box Hill & Reigate)
   Distance/Time: 4 Miles/2 Hours
   Start: The Seven Stars, Dawes Green, limited on road parking or ask at the pub.
   Comment: >

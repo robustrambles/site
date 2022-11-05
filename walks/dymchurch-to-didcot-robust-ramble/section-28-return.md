@@ -3,8 +3,8 @@ slug: section-28-return
 title: Section 28 Return
 subtitle: Shamley Green to Peaslake
 details:
-  Map: OS Explorer 145 Guildford &#x26; Farnham
-  Distance/time: 4 &#xBD; miles/ 3 hours
+  Map: OS Explorer 145 Guildford & Farnham
+  Distance/time: 4 ½ miles/ 3 hours
   Start: The Red Lion pub in Shamley Green
   Comment: >
     Not a long walk, but quite rugged going and some off-road vehicle damage. Some good views.

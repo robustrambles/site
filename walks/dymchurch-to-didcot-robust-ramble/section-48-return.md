@@ -3,7 +3,7 @@ slug: section-48-return
 title: Section 48 Return
 subtitle: Didcot to Aston Tirrold
 details:
-  Map: OS Explorer 170 Abingdon &#x26; Wantage
+  Map: OS Explorer 170 Abingdon & Wantage
   Distance/Time: 4 miles/2 hours
   Start: Broadway pub at the lower end of Didcot main shopping street.
   Comment: >

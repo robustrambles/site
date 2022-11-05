@@ -3,9 +3,9 @@ slug: section-17-(return)
 title: Section 17 (Return)
 subtitle: Leigh to Tonbridge
 details:
-  Map: OS Explorer 147 (Sevenoaks &#x26; Tonbridge)
+  Map: OS Explorer 147 (Sevenoaks & Tonbridge)
   Distance/Time: 3.5 Miles/2 Hours
-  Start: The &#x2018;Fleur-de-lis&#x2019;pub. It&#x2019;s usually possible to park around the village green. Leigh Rail Stationis further down the road which passes the side of the &#x2018;Fleur-de-lis&#x2019; pub.
+  Start: The ‘Fleur-de-lis’pub. It's usually possible to park around the village green. Leigh Rail Stationis further down the road which passes the side of the ‘Fleur-de-lis’ pub.
   Comment: >
     Leigh village is an attractive place with many buildings of character. A generally easy walk with some stiles and occasionally muddy bridleways. Pleasant walking in Haysden Country Park.
 portraitMap: false

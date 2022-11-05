@@ -3,7 +3,7 @@ slug: section-31-return
 title: Section 31 Return
 subtitle: The Sands to Shackleford
 details:
-  Map: OS Explorer 145 Guildford &#x26; Farnham
+  Map: OS Explorer 145 Guildford & Farnham
   Distance/Time: 5 miles/ 3 hours
   Start: The Barley Mow, Shackleford
   Comment: >

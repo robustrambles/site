@@ -7,7 +7,7 @@ details:
   Distance/Time: 4.5 Miles/2.5 Hours
   Start: The Unicorn, Marden village centre; there is a village car park.
   Comment: >
-    Some excellent Kentish countryside, although there are some very poor footpaths in this area. There is varied countryside with trees, orchards and valleys, possibly muddy in places. As ever keep a close eye on the map and don&#x2019;t take any path for granted.
+    Some excellent Kentish countryside, although there are some very poor footpaths in this area. There is varied countryside with trees, orchards and valleys, possibly muddy in places. As ever keep a close eye on the map and don't take any path for granted.
 portraitMap: false
 ---
 With ‘The Unicorn’ at Marden on your right, go ahead along the main road, soon passing the library and car park on the left. Shortly after, look out for a green public footpath sign indicating a path going left down to a recreation ground. Turn down here.

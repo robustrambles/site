@@ -3,11 +3,11 @@ slug: section-32-return
 title: Section 32 Return
 subtitle: Farnham to The Sands
 details:
-  Map: OS Explorer 145 Guildford &#x26; Farnham
+  Map: OS Explorer 145 Guildford & Farnham
   Distance/Time: 4 miles/ 2 hours
-  Start: The Queen&#x2019;s Head, by Castle Street
+  Start: The Queen's Head, by Castle Street
   Comment: >
-    It&#x2019;s difficult to find a loop back to The Sands but this route starts in the very pleasant Farnham Park then links short stretches of several paths which have been truncated by new roads and development. There are several roads to cross but mostly the route keeps on pedestrian paths sneaking through secret corners of the town eventually to return to Runfold Wood and a relaxed walk back to The Sands.
+    It's difficult to find a loop back to The Sands but this route starts in the very pleasant Farnham Park then links short stretches of several paths which have been truncated by new roads and development. There are several roads to cross but mostly the route keeps on pedestrian paths sneaking through secret corners of the town eventually to return to Runfold Wood and a relaxed walk back to The Sands.
 portraitMap: false
 ---
 From the Queen’s Head walk back to Castle street. Turn up it. Towards the end of the houses look out for The Nelsons Arms pub on your right. Turn right on a side road (Park Row) down the side of the pub.

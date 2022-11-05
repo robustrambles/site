@@ -3,7 +3,7 @@ slug: section-24-out
 title: Section 24 Out
 subtitle: Faygate to the old Royal Oak (Friday Street near Rusper)
 details:
-  Map: OS Explorer 134 Crawley &#x26; Horsham
+  Map: OS Explorer 134 Crawley & Horsham
   Comment: >
     undefined
 portraitMap: false

@@ -5,7 +5,7 @@ subtitle: "The Forstal to Kingsnorth                                "
 details:
   Map: OS Explorer 137 Ashford
   Distance/Time: 6.5 Miles/3.5 Hours
-  Start: The Farrier&#x2019;s Arms or old mill access; some on road parking.
+  Start: The Farrier's Arms or old mill access; some on road parking.
   Comment: >
     This is a demanding section with obscure or unmarked paths and poor stiles. Keep a constant eye on the map and check directions very carefully. The expansion of Ashford reaches out to Kingsnorth.
 portraitMap: false

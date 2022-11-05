@@ -7,7 +7,7 @@ details:
   Distance/Time: 7 miles/3.5 hours
   Start: The Greyhound pub in Tidmarsh. There is nowhere to park in this village except the pub. Those doing the circular walk might park in Pangbourne (the Activity Centre by the River Thames is the best).
   Comment: >
-    This is the only &#x2018;figure of eight&#x2019; section on this ramble because of lack of bridges over the Thames. This section is full of contrasts with open country, dense woodland, historic interest in Whitchurch, then an easy country stroll to Whitchurch Hill.
+    This is the only ‘figure of eight’ section on this ramble because of lack of bridges over the Thames. This section is full of contrasts with open country, dense woodland, historic interest in Whitchurch, then an easy country stroll to Whitchurch Hill.
 portraitMap: false
 ---
 With ‘The Greyhound’ behind, cross the main road to Tidmarsh Lane and go up it passing a recreation ground on your left. Where the road bends left, turn right through a wooden kissing gate and go up the top side of a pasture with a fence on your left.

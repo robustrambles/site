@@ -4,8 +4,8 @@ title: Section 19 Out
 subtitle: Chelwood Common (Danehill) to Horsted Keynes
 details:
   Map: OS Explorer 135 Ashdown Forest
-  Distance: 3 miles/ 1 &#xBD; hours
-  Start: The Coach &#x26; Horses at Chelwood Gate.
+  Distance: 3 miles/ 1 ½ hours
+  Start: The Coach & Horses at Chelwood Gate.
   Comment: >
     A short stretch in varied countryside with longer return.
 portraitMap: false

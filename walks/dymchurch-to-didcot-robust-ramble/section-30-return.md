@@ -3,7 +3,7 @@ slug: section-30-return
 title: Section 30 Return
 subtitle: Shackleford to Farncombe(Broad Water)
 details:
-  Map: OS Explorer 145 Guildford &#x26; Farnham
+  Map: OS Explorer 145 Guildford & Farnham
   Distance/time: 5 miles/ 3 hours
   Start: The Cyder Inn in Shackleford
   Comment: >

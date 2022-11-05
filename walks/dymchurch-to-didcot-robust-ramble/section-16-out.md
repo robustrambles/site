@@ -4,7 +4,7 @@ title: Section 16 Out
 subtitle: Five Ashes to High Hurstwood
 details:
   Map: OS Explorer 135 Ashdown Forest
-  Distance: 4 miles/ 2 &#xBD; hours
+  Distance: 4 miles/ 2 ½ hours
   Start: The Five Ashes Inn, ask about parking.
   Comment: >
     A varied walk through undulating countryside with stiles and the odd rough patch.

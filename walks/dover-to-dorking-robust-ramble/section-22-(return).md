@@ -3,7 +3,7 @@ slug: section-22-(return)
 title: Section 22 (Return)
 subtitle: South Nutfield to South Godstone
 details:
-  Map: Os Explorer 146 (Dorking, Box Hill &#x26; Reigate)
+  Map: Os Explorer 146 (Dorking, Box Hill & Reigate)
   Distance/Time: 6.5 miles/3.5 hours
   Start: The Station Pub near South Nutfield railway station
   Comment: >

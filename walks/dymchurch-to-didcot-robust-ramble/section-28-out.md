@@ -3,7 +3,7 @@ slug: section-28-out
 title: Section 28 Out
 subtitle: Peaslake to Shamley Green
 details:
-  Map: OS Explorer 145 Guildford &#x26; Farnham
+  Map: OS Explorer 145 Guildford & Farnham
   Distance/time: 6 miles/ 3 hours
   Start: The Hurtwood Inn in Peaslake.
   Comment: >

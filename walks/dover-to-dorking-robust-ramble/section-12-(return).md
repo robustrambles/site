@@ -3,9 +3,9 @@ slug: section-12-(return)
 title: Section 12 (Return)
 subtitle: Staplehurst to Headcorn
 details:
-  Map: OS Explorer 136 (The Weald) &#x26; 137 (Ashford)
+  Map: OS Explorer 136 (The Weald) & 137 (Ashford)
   Distance/Time: 5 Miles/3 Hours
-  Start: The King&#x2019;s Head and the parish church in Staplehurst.
+  Start: The King's Head and the parish church in Staplehurst.
   Comment: >
     This is interesting countryside but very heavily cultivated. Paths are either difficult to find or heavily used farm tracks. There is a small amount of road walking. There is an attempt to obliterate the right-of-way on the final stretch. An alternative is given. However the route can be walked, with careful map reading and some determination, so, for those who are able, have a go and assert our walking rights !
 portraitMap: false

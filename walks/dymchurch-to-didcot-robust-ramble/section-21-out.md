@@ -5,8 +5,7 @@ subtitle: Ardingly to Balcombe
 details:
   Map: OS Explorer 135 Ashdown Forest
   Distance: 4 miles/ 2 hours
-  Start: The Ardingly Inn, Ardingly village. On street parking possible.
-  Cross: and turn left (there is a narrow path along the top of the verge). Just past the first house on the right, turn right into the entrance to Wakehurst Place. Keep on for some way along this drive, ignoring a path soon going off right. Pass a car park on the left and then the rear of a caf&#xE9; (the Seed Caf&#xE9;).
+  Start: The Ardingly Inn, Ardingly village. On street parking possible. Cross and turn left (there is a narrow path along the top of the verge). Just past the first house on the right, turn right into the entrance to Wakehurst Place. Keep on for some way along this drive, ignoring a path soon going off right. Pass a car park on the left and then the rear of a café (the Seed Café).
   Comment: >
     A short but varied walk passing through Wakehurst Place, deer parks and lakes. Some uphill climbs.
 portraitMap: false

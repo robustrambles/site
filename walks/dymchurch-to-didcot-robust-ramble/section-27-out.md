@@ -3,9 +3,9 @@ slug: section-27-out
 title: Section 27 Out
 subtitle: Ewhurst to Peaslake
 details:
-  Map: OS Explorer 145 Guildford &#x26; Farnham/ 146 Dorking &#x26; Reigate
+  Map: OS Explorer 145 Guildford & Farnham/ 146 Dorking & Reigate
   Distance/time: 4.5 miles/3 hours
-  Start: The Bull&#x2019;s Head at the north end of Ewhurst village
+  Start: The Bull's Head at the north end of Ewhurst village
   Comment: >
     This is a most attractive walk in the Surrey Hills area of outstanding beauty. Most of the paths are easy to follow and there are moments of extensive views. There are several stiles and some very steep climbs so more than the usual time should be allowed for. In wet weather many of the tracks will be extremely muddy. There is a section of walk off Pitch Hill which is very steep and dangerous and should not be attempted by young children or anyone with restricted mobility. Walking poles are recommended. An alternative by road is suggested.
 portraitMap: true

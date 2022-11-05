@@ -3,7 +3,7 @@ slug: section-19-(out)
 title: Section 19 (Out)
 subtitle: Bough Beech to Edenbridge
 details:
-  Map: OS Explorer 147 (Sevenoaks &#x26; Tonbridge)
+  Map: OS Explorer 147 (Sevenoaks & Tonbridge)
   Distance/Time: 5 Miles/3 Hours
   Start: The Wheatsheaf; limited parking, ask in pub
   Comment: >

@@ -3,7 +3,7 @@ slug: section-12-(out)
 title: Section 12 (Out)
 subtitle: Headcorn to Staplehurst
 details:
-  Map: OS Explorers 137 (Ashford) &#x26; 136 (The Weald)
+  Map: OS Explorers 137 (Ashford) & 136 (The Weald)
   Distance/Time: 4 Miles/2.5 Hours
   Start: Headcorn Station in town centre; car parks and on street parking (but to be sought out in roads behind the main street).
   Comment: >

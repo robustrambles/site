@@ -3,7 +3,7 @@ slug: section-23-out
 title: Section 23 Out
 subtitle: Handcross to Faygate
 details:
-  Map: OS Explorer 134 Crawley &#x26; Horsham
+  Map: OS Explorer 134 Crawley & Horsham
   Distance: 6 miles/ 3 hours
   Start: The Red Lion in Handcross
   Comment: >

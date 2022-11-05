@@ -5,7 +5,7 @@ subtitle: Aldermaston to Ufton
 details:
   Map: OS Explorer 159 Reading
   Distance/Time: 4.5 miles/2.5 hours
-  Start: The Hind&#x2019;s Head in Aldermaston
+  Start: The Hind's Head in Aldermaston
   Comment: >
     This is a short but pleasant walk over grassy fields and river banks then canal towpaths. An unpleasant section of roadwalking is avoided by provision of a permissive path. An action that should be far more common. Aldermaston Wharf has much of interest and is worth spending a little time finding out about its history. Sadly the pub at Ufton has now closed. A little further north up the main road is The Spring Inn, or there are facilities at Aldermaston Wharf.
 portraitMap: false

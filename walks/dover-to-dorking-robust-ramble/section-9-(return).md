@@ -7,7 +7,7 @@ details:
   Distance/Time: 4 Miles/2 Hours
   Start: Bethersden, The George; some on road parking
   Comment: >
-    Generally straightforward walking but poor waymarking means the route is not always obvious and the going slow. There is &#xBE; mile along a country road, rather than &#xBC; mile along the A28 which was too dangerous to consider.
+    Generally straightforward walking but poor waymarking means the route is not always obvious and the going slow. There is ¾ mile along a country road, rather than ¼ mile along the A28 which was too dangerous to consider.
 portraitMap: false
 ---
 With the church on the left and the ‘George Inn’ on the right, go ahead along the road. At the T-junction cross over to a broad bridleway. Keep along this to a road. Cross the road to a gate and a bridleway sign.

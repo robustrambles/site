@@ -3,9 +3,9 @@ slug: section-5-(return)
 title: Section 5 (Return)
 subtitle: "Brabourne Lees to Stanford North "
 details:
-  Map: OS Explorer 137 (Ashford) 138 (Dover,Folkestone, &#x26; Hythe)
+  Map: OS Explorer 137 (Ashford) 138 (Dover,Folkestone, & Hythe)
   Distance/Time: 6 Miles (3 Hours)
-  Start: From &#x2018;The Woolpack&#x2019; ask about parking if intending to visit, otherwise onstreet in the village.
+  Start: From ‘The Woolpack’ ask about parking if intending to visit, otherwise onstreet in the village.
   Comment: >
     A varied and interesting walk with stiles and short, steep climbs; the paths through Hope Farm may need searching out.
 portraitMap: false

@@ -4,7 +4,7 @@ title: Section 17 Return
 subtitle: Nutley to High Hurstwood
 details:
   Map: OS Explorer 135 Ashdown Forest
-  Distance: 5 &#xBD; miles/ 3 hours
+  Distance: 5 ½ miles/ 3 hours
   Start: The Nutley Arms, ask about parking here or some on street in the village.
   Comment: >
     Some road walking to start with then trees and steep valleys once again. An alternative is suggested for a busy road section.

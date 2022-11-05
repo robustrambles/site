@@ -3,7 +3,7 @@ slug: section-25-(out)
 title: Section 25 (Out)
 subtitle: Dawes Green to Betchworth
 details:
-  Map: OS Explorer 146 (Dorking, Box Hill &#x26; Reigate)
+  Map: OS Explorer 146 (Dorking, Box Hill & Reigate)
   Distance/Time: 6 Miles/3 Hours
   Start: The Seven Stars, Dawes Green, limited on road parking or ask at the pub
   Comment: >

@@ -3,8 +3,8 @@ slug: section-29-out
 title: Section 29 Out
 subtitle: Shamley Green to Farncombe (Broad Water)
 details:
-  Map: OS Explorer 145 Guildford &#x26; Farnham
-  Distance/time: 5 miles/ 2 &#xBD; hours
+  Map: OS Explorer 145 Guildford & Farnham
+  Distance/time: 5 miles/ 2 ½ hours
   Start: Red Lion, Shamley Green
   Comment: >
     An excellent walk on quiet country paths through woodland and enclosed sandy paths. Virtually no stiles or road walking although this is hilly country. There are some attractive farmhouses and the special interest of walking part of the old railway line to Cranleigh and the River Wey towpath. Expect mud after significant rain.

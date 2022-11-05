@@ -3,11 +3,11 @@ slug: section-32-out
 title: Section 32 Out
 subtitle: The Sands to Farnham
 details:
-  Map: OS Explorer 145 Guildford &#x26; Farnham
+  Map: OS Explorer 145 Guildford & Farnham
   Distance/Time: 4 miles/ 2 hours
   Start: The Barley Mow, The Sands
   Comment: >
-    It was intended to head north from this point but so much land is still restricted by military use that the idea was abandoned. This westward section reaches the attractive town of Farnham. Inevitably the town&#x2019;s development affects the surrounding countryside, but this provides constant contrast. This section has excellent woodland stretches and quiet corners, then skirts a quarry and a busy road to suddenly emerge almost in the town centre. Most of the paths are bridleways which may be muddy but are easy to follow and have no stiles.
+    It was intended to head north from this point but so much land is still restricted by military use that the idea was abandoned. This westward section reaches the attractive town of Farnham. Inevitably the town's development affects the surrounding countryside, but this provides constant contrast. This section has excellent woodland stretches and quiet corners, then skirts a quarry and a busy road to suddenly emerge almost in the town centre. Most of the paths are bridleways which may be muddy but are easy to follow and have no stiles.
 portraitMap: false
 ---
 With the front of the Barley Mow pub on your left walk forward a few paces then turn sharp left up the side of the pub on a no through road called Smugglers Way. In 200 metres, opposite the white gate to The Halt house, turn right off the road on a bridleway through holly bushes.

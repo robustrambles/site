@@ -3,7 +3,7 @@ slug: section-20-(return)
 title: Section 20 (Return)
 subtitle: The Royal Oak (Staffhurst Wood) to Edenbridge
 details:
-  Map: OS Explorer 147 (Sevenoaks &#x26; Tonbridge)
+  Map: OS Explorer 147 (Sevenoaks & Tonbridge)
   Distance/Time: 5 Miles/2.5 Hours
   Start: The Royal Oak pub has its own parking, also car park in Staffhurst Wood.
   Comment: >

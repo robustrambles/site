@@ -3,7 +3,7 @@ slug: section-21-(return)
 title: Section 21 (Return)
 subtitle: South Godstone to The Royal Oak (Staffhurst Wood)
 details:
-  Map: OS Explorer 147(Sevenoaks &#x26; Tonbridge) 146 (Dorking)
+  Map: OS Explorer 147 (Sevenoaks & Tonbridge) 146 (Dorking)
   Distance/Time: 4 Miles/ 2Hours
   Start: By South Godstone railway station;on road parking around the village
   Comment: >

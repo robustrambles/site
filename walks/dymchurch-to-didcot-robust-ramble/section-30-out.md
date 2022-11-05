@@ -3,7 +3,7 @@ slug: section-30-out
 title: Section 30 Out
 subtitle: Farncombe (Broad Water) to Shackleford
 details:
-  Map: OS Explorer 145 Guildford &#x26; Farnham
+  Map: OS Explorer 145 Guildford & Farnham
   Distance/time: 5 miles/ 3 hours
   Start: The Manor Inn, Broad Water
   Comment: >

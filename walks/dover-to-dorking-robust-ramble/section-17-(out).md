@@ -3,9 +3,9 @@ slug: section-17-(out)
 title: Section 17 (Out)
 subtitle: Tonbridge to Leigh
 details:
-  Map: OS Explorer 147 (Sevenoaks &#x26; Tonbridge)
+  Map: OS Explorer 147 (Sevenoaks & Tonbridge)
   Distance/Time: 3 Miles/2 Hours
-  Start: "&#x2018;The Chequers&#x2019; inn by Tonbridge castle. There are several car parks behind the shops on both sides of the High Street and also in Haysden Country Park"
+  Start: "‘The Chequers’ inn by Tonbridge castle. There are several car parks behind the shops on both sides of the High Street and also in Haysden Country Park"
   Comment: >
     Generally easy walking following sections of the Weald Way and the Eden Valley Way. This is very low-lying land and may be muddy or suffer from flooding in very wet weather. Tonbridge castle is impressive as is Leigh church and surrounding houses. There may be stock in some fields.
 portraitMap: false

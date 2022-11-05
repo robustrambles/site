@@ -3,9 +3,9 @@ slug: section-47-return
 title: Section 47 Return
 subtitle: Aston Tirrold to Streatley (Goring)
 details:
-  Map: OS Explorer 170 Abingdon &#x26; Wantage
+  Map: OS Explorer 170 Abingdon & Wantage
   Distance/Time: 5 miles/3 hours
-  Start: The Chequers Inn, Aston Tirrold; parking on street around village or at the recreation ground, about &#xBC; mile away, towards the end of the return section.
+  Start: The Chequers Inn, Aston Tirrold; parking on street around village or at the recreation ground, about ¼ mile away, towards the end of the return section.
   Comment: >
     A hilly start with good views, then a gradual descent to the River Thames. The last two miles are along the Thames Path as there is no other way. If the path is ever flooded do not go down Ferry Lane but turn right at the crossroads and follow the main road.
 portraitMap: false

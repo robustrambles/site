@@ -3,7 +3,7 @@ slug: section-4-(out)
 title: Section 4 (Out)
 subtitle: Etchinghill to Stanford North
 details:
-  Map: OS Explorer 138 (Dover, Folkestone &#x26; Hythe)
+  Map: OS Explorer 138 (Dover, Folkestone & Hythe)
   Distance/Time: 3.5 Miles (1.5 Hours)
   Start: At the New Inn; ask about parking or some on road parking
   Comment: >

@@ -3,9 +3,9 @@ slug: section-5-(out)
 title: Section 5 (Out)
 subtitle: Stanford North To Brabourne Lees
 details:
-  Map: OS Explorer 138 (Dover, Folkestone &#x26; Hythe) also Map 137 (Ashford)
+  Map: OS Explorer 138 (Dover, Folkestone & Hythe) also Map 137 (Ashford)
   Distance/Time: 5.5 Miles (3 Hours)
-  Start: From &#x2018;The Drum Inn&#x2019;, ask about parking there if intending to visit otherwise on street parking possible.
+  Start: From ‘The Drum Inn’, ask about parking there if intending to visit otherwise on street parking possible.
   Comment: >
     An interesting and varied walk with some tricky stiles in prickly hedges (secateurs worth carrying). Some good views and occasional traffic noise from the M20.
 portraitMap: false

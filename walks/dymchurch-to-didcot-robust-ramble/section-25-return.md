@@ -3,7 +3,7 @@ slug: section-25-return
 title: Section 25 Return
 subtitle: Oakwoodhill to The Royal Oak(Rusper)
 details:
-  Map: OS Explorer 134 Crawley &#x26; Horsham
+  Map: OS Explorer 134 Crawley & Horsham
   Distance: 6 miles/ 3 hours
   Start: The Punchbowl Inn, Oakwoodhill
   Comment: >

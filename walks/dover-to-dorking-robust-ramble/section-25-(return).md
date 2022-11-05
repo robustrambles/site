@@ -3,7 +3,7 @@ slug: section-25-(return)
 title: Section 25 (Return)
 subtitle: Betchworth to Dawes Green
 details:
-  Map: OS Explorer 146 (Dorking, Box Hill &#x26; Reigate)
+  Map: OS Explorer 146 (Dorking, Box Hill & Reigate)
   Distance/Time: 3 Miles/1.5 Hours
   Start: The Dolphin in Betchworth village centre, limited parking around the village or ask in pub .
   Comment: >

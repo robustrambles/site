@@ -3,7 +3,7 @@ slug: section-23-return
 title: Section 23 Return
 subtitle: Faygate to Handcross
 details:
-  MapOS: Explorer 134 Crawley &#x26; Horsham
+  MapOS: Explorer 134 Crawley & Horsham
   Distance: 6 miles/ 3 hours
   Start: The Holmbush Inn in Faygate.
   Comment: >

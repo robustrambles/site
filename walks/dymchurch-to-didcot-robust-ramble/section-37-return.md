@@ -5,7 +5,7 @@ subtitle: Turgis Green to Hazeley
 details:
   Map: OS Explorer 144 Basingstoke/ OS 159 Reading
   Distance/Time: 5 miles/ 3 hours
-  Start: The Jekyll &#x26; Hyde pub in Turgis Green on the A33.
+  Start: The Jekyll & Hyde pub in Turgis Green on the A33.
   Comment: >
     Slightly easier return across open farmland, however be prepared for paths not being reinstated across crops. A final stretch of roadwalking along country roads to return to Hazeley.
 portraitMap: false

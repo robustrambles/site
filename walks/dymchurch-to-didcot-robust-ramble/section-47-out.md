@@ -3,11 +3,11 @@ slug: section-47-out
 title: Section 47 Out
 subtitle: Streatley (Goring) to Aston Tirrold
 details:
-  Map: OS Explorer 170 Abingdon &#x26; Wantage
+  Map: OS Explorer 170 Abingdon & Wantage
   Distance/Time: 8 miles/3.5 hours
   Start: Cross the bridge from Goring Station to reach The Swan Inn, by the River Thames in Streatley. Ask about parking in the pub or try by the church of St. Mary just off the high Street a bit further up on the right.
   Comment: >
-    This is a difficult area for walking as the River Thames, the Goring Gap and extensive downland restrict the number of paths. This section has to use a long section of the Ridgeway and a further long byway section plus some linking roads. These tracks are hard on the feet and can be tedious but it&#x2019;s possible to make steady progress and the views are good. The Chequers at Aston Tirrold is not open every day and not Sunday evening so check beforehand. This is a very hilly section.
+    This is a difficult area for walking as the River Thames, the Goring Gap and extensive downland restrict the number of paths. This section has to use a long section of the Ridgeway and a further long byway section plus some linking roads. These tracks are hard on the feet and can be tedious but it's possible to make steady progress and the views are good. The Chequers at Aston Tirrold is not open every day and not Sunday evening so check beforehand. This is a very hilly section.
 portraitMap: false
 ---
 With The Swan Inn behind face the main road. The bridge to Goring is on your left. Turn right up the road through the village passing some excellent houses from the 16th to the 19th. Century. At the top reach a crossroads by The Bull inn.

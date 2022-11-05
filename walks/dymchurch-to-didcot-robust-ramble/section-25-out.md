@@ -3,7 +3,7 @@ slug: section-25-out
 title: Section 25 Out
 subtitle: The old Royal Oak (at Friday Street near Rusper) to Oakwoodhill
 details:
-  Map: OS Explorer 134 Crawley &#x26; Horsham
+  Map: OS Explorer 134 Crawley & Horsham
   Distance: 5 miles/ 3 hours
   Start: Friday Street, near Rusper, and the site of the former Royal Oak pub. Limited parking.
   Comment: >

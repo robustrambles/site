@@ -3,7 +3,7 @@ slug: section-18-(return)
 title: Section 18 (Return)
 subtitle: Bough Beech to Leigh
 details:
-  Map: OS Explorer 147 (Sevenoaks &#x26; Tonbridge)
+  Map: OS Explorer 147 (Sevenoaks & Tonbridge)
   Distance/Time: 4.5 Miles/2 Hours
   Start: The corner by The Wheatsheaf is a busy junction. If intending to visit the pub on returning from the walk, ask about parking on site.
   Comment: >

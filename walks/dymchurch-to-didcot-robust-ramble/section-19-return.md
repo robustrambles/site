@@ -4,7 +4,7 @@ title: Section 19 Return
 subtitle: Horsted Keynes to Chelwood Common(Danehill)
 details:
   Map: OS Explorer 135 Ashdown Forest
-  Distance: 5 miles/ 2 &#xBD; hours
+  Distance: 5 miles/ 2 ½ hours
   Start: The Crown pub in Horsted Keynes
   Comment: >
     A varied walk full of interest. Look out for the Californian Big Tree.
