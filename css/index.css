@@ -337,6 +337,10 @@ main .walk-sequence .next {
   text-align: right;
 }
 
+main .walk-sequence .previous:only-child {
+  margin-right: 50%;
+}
+
 footer {
   margin: 0 auto;
   text-align: center;
