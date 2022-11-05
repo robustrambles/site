@@ -64,8 +64,11 @@ module.exports = function(eleventyConfig) {
       return collection.getAll().filter(item => path.basename(item.data.page.inputPath) !== 'index.md' && item.data.walkSeries === series.name).sort((a, b) => {
         if (a.data.title === b.data.title) return 0;
         const titleRegex = /Section (\d{1,2}) \(?(Out|Return)/;
-        const [_A, sectionNumberStrA, directionA] = a.data.title.match(titleRegex);
-        const [_B, sectionNumberStrB, directionB] = b.data.title.match(titleRegex);
+        const aMatch = a.data.title.match(titleRegex);
+        const bMatch = b.data.title.match(titleRegex);
+        if (aMatch === null || bMatch === null) return a.data.title.localeCompare(b.data.title);
+        const [_A, sectionNumberStrA, directionA] = aMatch;
+        const [_B, sectionNumberStrB, directionB] = bMatch;
         const sectionNumberA = parseInt(sectionNumberStrA);
         const sectionNumberB = parseInt(sectionNumberStrB);
         if (sectionNumberA !== sectionNumberB) return ((sectionNumberA > sectionNumberB) * 2) - 1;
