@@ -317,6 +317,7 @@ main .walk-sequence li {
   width: 50%;
   display: flex;
   flex-direction: column;
+  position: relative;
 }
 
 main .walk-sequence a {
