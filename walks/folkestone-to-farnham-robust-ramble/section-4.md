@@ -1,7 +1,7 @@
 ---
-slug: lymne-to-burmarsh
-title: Lymne to Burmarsh
-subtitle: ''
+slug: section-4
+title: Section 4
+subtitle: Lymne to Burmarsh
 details:
   '': ''
 portraitMap: false
