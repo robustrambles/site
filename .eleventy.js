@@ -63,15 +63,21 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addCollection(series.name, function(collection) {
       return collection.getAll().filter(item => path.basename(item.data.page.inputPath) !== 'index.md' && item.data.walkSeries === series.name).sort((a, b) => {
         if (a.data.title === b.data.title) return 0;
-        const titleRegex = /Section (\d{1,2}) \(?(Out|Return)/;
+        const titleRegex = /Section (\d{1,2})/;
+        const directionRegex = /([^a-z]{0,1}|^)(Out|Return)([^a-z]|$)/;
         const aMatch = a.data.title.match(titleRegex);
         const bMatch = b.data.title.match(titleRegex);
         if (aMatch === null || bMatch === null) return a.data.title.localeCompare(b.data.title);
-        const [_A, sectionNumberStrA, directionA] = aMatch;
-        const [_B, sectionNumberStrB, directionB] = bMatch;
+        const [_A, sectionNumberStrA] = aMatch;
+        const [_B, sectionNumberStrB] = bMatch;
         const sectionNumberA = parseInt(sectionNumberStrA);
         const sectionNumberB = parseInt(sectionNumberStrB);
         if (sectionNumberA !== sectionNumberB) return ((sectionNumberA > sectionNumberB) * 2) - 1;
+        const aDirectionMatch = a.data.title.match(directionRegex);
+        const bDirectionMatch = b.data.title.match(directionRegex);
+        if (aDirectionMatch === null || bDirectionMatch === null) return 1;
+        const [_AD, aPrefix, directionA] = aDirectionMatch;
+        const [_BD, bPrefix, directionB] = bDirectionMatch;
         if (directionA === directionB) return 0;
         if (directionA === 'Out' && directionB === 'Return') return -1;
         return 1;
