@@ -1,6 +1,6 @@
 ---
 slug: section-8
-title: section 8
+title: Section 8
 subtitle: Stelling Minnis to Hastingleigh
 details:
   '': ''

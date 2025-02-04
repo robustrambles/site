@@ -1,6 +1,6 @@
 ---
 slug: section-4
-title: section 4
+title: Section 4
 subtitle: Fordwich to Littlebourne
 details:
   '': ''

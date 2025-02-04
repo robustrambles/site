@@ -1,6 +1,6 @@
 ---
 slug: section-6
-title: section 6
+title: Section 6
 subtitle: Bekesbourne to Kingston
 details:
   '': ''

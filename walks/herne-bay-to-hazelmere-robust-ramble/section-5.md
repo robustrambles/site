@@ -1,6 +1,6 @@
 ---
 slug: section-5
-title: section 5
+title: Section 5
 subtitle: Littlebourne to Bekesbourne
 details:
   '': ''

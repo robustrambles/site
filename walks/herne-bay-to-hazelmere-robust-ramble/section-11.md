@@ -1,6 +1,6 @@
 ---
 slug: section-11
-title: section 11
+title: Section 11
 subtitle: Boughton Lees to Challock
 details:
   '': ''

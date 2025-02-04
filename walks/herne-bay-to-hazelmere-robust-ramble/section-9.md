@@ -1,6 +1,6 @@
 ---
 slug: section-9
-title: section 9
+title: Section 9
 subtitle: Hastingleigh to Wye
 details:
   '': ''

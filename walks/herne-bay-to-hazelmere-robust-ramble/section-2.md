@@ -1,6 +1,6 @@
 ---
 slug: section-2
-title: section 2
+title: Section 2
 subtitle: Herne Common to Calcott
 details:
   '': ''

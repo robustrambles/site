@@ -1,6 +1,6 @@
 ---
 slug: section-7
-title: section 7
+title: Section 7
 subtitle: Kingston to Stelling Minnis
 details:
   '': ''

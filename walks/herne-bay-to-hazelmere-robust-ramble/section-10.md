@@ -1,6 +1,6 @@
 ---
 slug: section-10
-title: section 10
+title: Section 10
 subtitle: Wye to Boughton Lees
 details:
   '': ''
