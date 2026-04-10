@@ -1,6 +1,6 @@
 ---
-slug: '16'
-title: '16'
+slug: section-16
+title: Section 16
 subtitle: Frinsted to Hucking
 details:
   '': ''
