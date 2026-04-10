@@ -1,6 +1,6 @@
 ---
-slug: '17'
-title: '17'
+slug: section-17
+title: Section 17
 subtitle: Hucking to Detling
 details:
   '': ''
